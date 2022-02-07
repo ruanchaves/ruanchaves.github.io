@@ -16,10 +16,6 @@ I'm a Software Engineer with experience working on projects and challenges in th
 
 * A full list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=3JDK8KEAAAAJ&hl=en). Most of my papers are available either on [arXiv](https://arxiv.org/search/cs?searchtype=author&query=Rodrigues%2C+R+C) , [ResearchGate](https://www.researchgate.net/profile/Ruan-Rodrigues-2#publications) or the [ACM Digital Library](https://dl.acm.org/profile/99659845228/publications?Role=author).
 
-* I blog on [Medium](https://ruanchaves.medium.com/) and [LinkedIn](https://www.linkedin.com/in/ruanchaves).
-
-------
-
 <h3 align="center">Follow me: </h3>
 
 <p align="center" >
