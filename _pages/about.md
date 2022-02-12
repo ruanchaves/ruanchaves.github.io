@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Software Engineer and currently a MSc student at the [Erasmus Mundus European Masters in Language and Communication Technologies](https://lct-master.org/). I hold a BSc in Computer Science from the Federal University of Goiás (UFG) and I also have an academic background in the Humanities. 
 
-I have around 1 year of work experience in NLP research groups and startups. Among my accomplishments during this period, I have achieved 1st place at two international competitions in textual entailment: [ASSIN 2](https://sites.google.com/view/assin2/english) and [COLIEE 2021](https://icail.lawgorithm.com.br/workshop/coliee/). 
+I have around 1 year of work experience in NLP research groups and startups. My accomplishments during this period include having achieved 1st place at two international competitions in textual entailment: [ASSIN 2](https://sites.google.com/view/assin2/english) and [COLIEE 2021](https://icail.lawgorithm.com.br/workshop/coliee/). 
 
 I am also the author of publications at major peer-reviewed conferences in Natural Language Processing. A full list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=3JDK8KEAAAAJ&hl=en). Most of my papers are available either on [arXiv](https://arxiv.org/search/cs?searchtype=author&query=Rodrigues%2C+R+C) , [ResearchGate](https://www.researchgate.net/profile/Ruan-Rodrigues-2#publications) or the [ACM Digital Library](https://dl.acm.org/profile/99659845228/publications?Role=author).
 
