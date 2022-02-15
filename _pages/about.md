@@ -14,7 +14,7 @@ I have around 1 year of work experience in NLP research groups and startups. My 
 
 I am also the author of publications at major peer-reviewed conferences in Natural Language Processing. A full list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=3JDK8KEAAAAJ&hl=en). Most of my papers are available either on [arXiv](https://arxiv.org/search/cs?searchtype=author&query=Rodrigues%2C+R+C) , [ResearchGate](https://www.researchgate.net/profile/Ruan-Rodrigues-2#publications) or the [ACM Digital Library](https://dl.acm.org/profile/99659845228/publications?Role=author).
 
-I have made impactful contributions to open source NLP projects ( e.g. [Hugging Face transformers](https://ruanchaves.medium.com/integrating-ray-tune-hugging-face-transformers-and-w-b-172c07ce2854), [Rubrix](https://rubrix.readthedocs.io/) ), and I am the creator of [hashformers](https://github.com/ruanchaves/hashformers), an open-source framework for state-of-the-art hashtag segmentation.
+I have made impactful contributions to open source NLP projects, and I am the creator of [hashformers](https://github.com/ruanchaves/hashformers), an open-source framework for state-of-the-art hashtag segmentation.
 
 ------
 
