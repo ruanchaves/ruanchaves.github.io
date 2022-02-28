@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Software Engineer and currently a MSc student at the [Erasmus Mundus European Masters in Language and Communication Technologies](https://lct-master.org/). I hold a BSc in Computer Science from the Federal University of Goiás (UFG) and I also have an academic background in the Humanities. 
+Software Engineer with 1+ years of experience building Natural Language Processing products for large companies, startups and research groups. Currently a MSc student at the [Erasmus Mundus LCT double degree programme](https://lct-master.org/). 
 
-I have around 1 year of work experience in NLP research groups and startups. My accomplishments during this period include having achieved 1st place at two international competitions in textual entailment: [ASSIN 2](https://sites.google.com/view/assin2/english) and [COLIEE 2021](https://icail.lawgorithm.com.br/workshop/coliee/). 
+Some of my accomplishments include: 
 
-I am also the author of publications at major peer-reviewed conferences in Natural Language Processing. A full list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=3JDK8KEAAAAJ&hl=en). Most of my papers are available either on [arXiv](https://arxiv.org/search/cs?searchtype=author&query=Rodrigues%2C+R+C) , [ResearchGate](https://www.researchgate.net/profile/Ruan-Rodrigues-2#publications) or the [ACM Digital Library](https://dl.acm.org/profile/99659845228/publications?Role=author).
+- 1st place at two international competitions in textual entailment while working with different teams: [ASSIN 2](https://sites.google.com/view/assin2/english) and [COLIEE 2021](https://icail.lawgorithm.com.br/workshop/coliee/).
 
-I have made impactful contributions to open source NLP projects, and I am the creator of [hashformers](https://github.com/ruanchaves/hashformers), an open-source framework for state-of-the-art hashtag segmentation.
+- Published research at specialized NLP conferences, which has been cited by significant papers in the field. A full list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=3JDK8KEAAAAJ&hl=en). My papers are available on [arXiv](https://arxiv.org/search/cs?searchtype=author&query=Rodrigues%2C+R+C) , [ResearchGate](https://www.researchgate.net/profile/Ruan-Rodrigues-2#publications) and the [ACM Digital Library](https://dl.acm.org/profile/99659845228/publications?Role=author).
+
+- Made impactful contributions to open-source, which includes the creation of [hashformers](https://github.com/ruanchaves/hashformers), an open-source library for state-of-the-art hashtag segmentation.
+
+Besides Machine Learning and Artificial Intelligence, I am also highly interested in the study of Computer Science fundamentals, data structures and algorithms.
 
 ------
 
