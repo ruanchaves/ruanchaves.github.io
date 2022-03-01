@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Software Engineer with 1+ years of experience building Natural Language Processing products for large companies, startups and research groups. Currently a MSc student at the [Erasmus Mundus LCT double degree programme](https://lct-master.org/). 
+Software Engineer with experience in building Natural Language Processing products for large companies, startups and research groups. Currently a MSc student at the [Erasmus Mundus LCT double degree programme](https://lct-master.org/). 
 
 Some of my accomplishments include: 
 
