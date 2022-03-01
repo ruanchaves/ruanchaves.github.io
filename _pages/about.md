@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Software Engineer with experience in building Natural Language Processing products for large companies, startups and research groups. Currently a MSc student at the [Erasmus Mundus LCT double degree programme](https://lct-master.org/). 
+Software Engineer with experience in building Natural Language Processing products for large companies, startups and research teams. Currently a MSc student at the [Erasmus Mundus LCT double degree programme](https://lct-master.org/). 
 
 Some of my accomplishments include: 
 
 - 1st place at two international competitions in textual entailment while working with different teams: [ASSIN 2](https://sites.google.com/view/assin2/english) and [COLIEE 2021](https://icail.lawgorithm.com.br/workshop/coliee/).
 
-- Published research at specialized NLP conferences, which has been cited by significant papers in the field. A full list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=3JDK8KEAAAAJ&hl=en). My papers are available on [arXiv](https://arxiv.org/search/cs?searchtype=author&query=Rodrigues%2C+R+C) , [ResearchGate](https://www.researchgate.net/profile/Ruan-Rodrigues-2#publications) and the [ACM Digital Library](https://dl.acm.org/profile/99659845228/publications?Role=author).
+- Publications at specialized NLP conferences, which have been cited by significant papers in the field ( [Google Scholar profile](https://scholar.google.com/citations?user=3JDK8KEAAAAJ&hl=en) ).
 
 - Made impactful contributions to open-source, which includes the creation of [hashformers](https://github.com/ruanchaves/hashformers), an open-source library for state-of-the-art hashtag segmentation.
 
