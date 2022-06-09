@@ -12,7 +12,7 @@ Software Engineer with experience in building Natural Language Processing produc
 
 Some of my accomplishments include: 
 
-- 1st place at two international competitions in textual entailment while working with different teams: [ASSIN 2](https://sites.google.com/view/assin2/english) and [COLIEE 2021](https://icail.lawgorithm.com.br/workshop/coliee/).
+- 1st place at three international competitions in NLP: [ASSIN 2](https://sites.google.com/view/assin2/english) at STIL 2019 ( textual entailment ), [COLIEE 2021](https://icail.lawgorithm.com.br/workshop/coliee/) and [ABSAPT at IberLEF 2022](https://sites.google.com/inf.ufpel.edu.br/absapt2022/) ( aspect-based sentiment analysis ).
 
 - Publications at specialized NLP conferences, which have been cited by significant papers in the field ( [Google Scholar profile](https://scholar.google.com/citations?user=3JDK8KEAAAAJ&hl=en) ).
 
