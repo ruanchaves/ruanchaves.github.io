@@ -8,17 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Software Engineer with experience in building Natural Language Processing products for large companies, startups and research teams. Currently a MSc student at the [Erasmus Mundus LCT double degree programme](https://lct-master.org/). 
+I hold a B.S. in Computer Science and currently I'm a MSc student at the [Erasmus Mundus LCT double degree programme](https://lct-master.org/). 
 
-Some of my accomplishments include: 
+- I won 1st place at three international competitions in NLP: [ASSIN 2](https://sites.google.com/view/assin2/english) at [STIL 2019](http://comissoes.sbc.org.br/ce-pln/stil2019/), [COLIEE 2021](https://icail.lawgorithm.com.br/workshop/coliee/) at [ICAIL 2021](https://icail.lawgorithm.com.br/) and [ABSAPT at IberLEF 2022](https://sites.google.com/inf.ufpel.edu.br/absapt2022/). 
 
-- 1st place at three international competitions in NLP: [ASSIN 2](https://sites.google.com/view/assin2/english) at [STIL 2019](http://comissoes.sbc.org.br/ce-pln/stil2019/), [COLIEE 2021](https://icail.lawgorithm.com.br/workshop/coliee/) at [ICAIL 2021](https://icail.lawgorithm.com.br/) and [ABSAPT at IberLEF 2022](https://sites.google.com/inf.ufpel.edu.br/absapt2022/) ( aspect-based sentiment analysis ).
+- I have published papers at conferences in the field of Natural Language Processing ( [Google Scholar profile](https://scholar.google.com/citations?user=3JDK8KEAAAAJ&hl=en) ).
 
-- Publications at specialized NLP conferences, which have been cited by significant papers in the field ( [Google Scholar profile](https://scholar.google.com/citations?user=3JDK8KEAAAAJ&hl=en) ).
-
-- Made impactful contributions to open-source, which includes the creation of [hashformers](https://github.com/ruanchaves/hashformers), an open-source library for state-of-the-art hashtag segmentation.
-
-Besides Machine Learning and Artificial Intelligence, I am also highly interested in the study of Computer Science fundamentals, data structures and algorithms.
+- I have created [hashformers](https://github.com/ruanchaves/hashformers), an open-source library for state-of-the-art hashtag segmentation.
 
 ------
 
