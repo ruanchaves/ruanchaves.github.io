@@ -8,19 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I hold a B.S. in Computer Science and currently I'm a MSc student at the [Erasmus Mundus LCT double degree programme](https://lct-master.org/). 
+As an engineer with a passion for problem-solving and a strong background in computer science, I aim to develop high-quality solutions and turn them into tangible outcomes. My experience as a data science intern and researcher, as well as my Master's degree from the [Erasmus Mundus European Masters Program in Language and Communication Technologies (LCT)](https://lct-master.org/), have equipped me with the necessary skills to build superior products and services that effectively address customer needs.
 
-- I won 1st place at three international competitions in NLP: [ASSIN 2](https://sites.google.com/view/assin2/english) at [STIL 2019](http://comissoes.sbc.org.br/ce-pln/stil2019/), [COLIEE 2021](https://icail.lawgorithm.com.br/workshop/coliee/) at [ICAIL 2021](https://icail.lawgorithm.com.br/) and [ABSAPT at IberLEF 2022](https://sites.google.com/inf.ufpel.edu.br/absapt2022/). 
+Deep learning, natural language processing and software development are some of my areas of interest. I have contributed to open-source projects, such as creating [hashformers](https://github.com/ruanchaves/hashformers), an open-source library for state-of-the-art hashtag segmentation. I have also [published papers](https://scholar.google.com/citations?user=3JDK8KEAAAAJ&hl=en) at conferences in the field of Natural Language Processing.
 
-- I have published papers at conferences in the field of Natural Language Processing ( [Google Scholar profile](https://scholar.google.com/citations?user=3JDK8KEAAAAJ&hl=en) ).
+In addition, I have contributed to open-source projects and have placed first in three international Natural Language Processing competitions: [ASSIN 2](https://sites.google.com/view/assin2/english) at [STIL 2019](http://comissoes.sbc.org.br/ce-pln/stil2019/), [COLIEE 2021](https://icail.lawgorithm.com.br/workshop/coliee/) at [ICAIL 2021](https://icail.lawgorithm.com.br/), and [ABSAPT at IberLEF 2022](https://sites.google.com/inf.ufpel.edu.br/absapt2022/). 
 
-- I have created [hashformers](https://github.com/ruanchaves/hashformers), an open-source library for state-of-the-art hashtag segmentation.
+My ultimate goal is to continue learning and growing as an engineer, using my skills and knowledge to create innovative solutions.
 
 ------
 
-* My **resume** is [available for download here](https://ruanchaves.github.io/files/resume.pdf).
-
-* **Email**: [ruanchaves93@gmail.com](mailto://ruanchaves93@gmail.com)
+* **Send me an email**: [ruanchaves93@gmail.com](mailto://ruanchaves93@gmail.com)
 
 <h3 align="center">Follow me: </h3>
 

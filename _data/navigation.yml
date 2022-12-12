@@ -1,9 +1,9 @@
 # main links links
 main:
 
-  - title: "Resume"
-    url: https://ruanchaves.github.io/files/resume.pdf
-        
+  - title: "Email"    
+    url: mailto:ruanchaves93@gmail.com
+
   - title: "Blog"
     url: https://ruanchaves.medium.com/
 
