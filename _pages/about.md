@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-As an engineer with a passion for problem-solving and a strong background in computer science, I aim to develop high-quality solutions and turn them into tangible outcomes. My experience as a data science intern and researcher, as well as my Master's degree from the [Erasmus Mundus European Masters Program in Language and Communication Technologies (LCT)](https://lct-master.org/), have equipped me with the necessary skills to build superior products and services that effectively address customer needs.
+Software engineer with a strong background in computer science and a Master's degree from the [Erasmus Mundus European Masters Program in Language and Communication Technologies (LCT)](https://lct-master.org/). Skilled in building superior products and services that effectively address customer needs, with expertise in deep learning, natural language processing and software development. 
 
-Deep learning, natural language processing and software development are some of my areas of interest. I have contributed to open-source projects, such as creating [hashformers](https://github.com/ruanchaves/hashformers), an open-source library for state-of-the-art hashtag segmentation. I have also [published papers](https://scholar.google.com/citations?user=3JDK8KEAAAAJ&hl=en) at conferences in the field of Natural Language Processing.
+Placed first in three international NLP competitions: [ASSIN 2](https://sites.google.com/view/assin2/english) at [STIL 2019](http://comissoes.sbc.org.br/ce-pln/stil2019/), [COLIEE 2021](https://icail.lawgorithm.com.br/workshop/coliee/) at [ICAIL 2021](https://icail.lawgorithm.com.br/), and [ABSAPT at IberLEF 2022](https://sites.google.com/inf.ufpel.edu.br/absapt2022/). 
 
-In addition, I have contributed to open-source projects and have placed first in three international Natural Language Processing competitions: [ASSIN 2](https://sites.google.com/view/assin2/english) at [STIL 2019](http://comissoes.sbc.org.br/ce-pln/stil2019/), [COLIEE 2021](https://icail.lawgorithm.com.br/workshop/coliee/) at [ICAIL 2021](https://icail.lawgorithm.com.br/), and [ABSAPT at IberLEF 2022](https://sites.google.com/inf.ufpel.edu.br/absapt2022/). 
-
-My ultimate goal is to continue learning and growing as an engineer, using my skills and knowledge to create innovative solutions.
+Contributed to open-source projects, such as creating [hashformers](https://github.com/ruanchaves/hashformers), an open-source library for state-of-the-art hashtag segmentation, and also [published papers](https://scholar.google.com/citations?user=3JDK8KEAAAAJ&hl=en) at conferences in the field of Natural Language Processing.
 
 ------
 
