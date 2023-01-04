@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Software engineer with a strong background in computer science and a Master's degree from the [Erasmus Mundus European Masters Program in Language and Communication Technologies (LCT)](https://lct-master.org/). Skilled in building superior products and services that effectively address customer needs, with expertise in deep learning, natural language processing and software development. 
+Software engineer with a strong background in computer science and currently pursuing a Master's degree from the [Erasmus Mundus European Masters Program in Language and Communication Technologies (LCT)](https://lct-master.org/). Skilled in building superior products and services that effectively address customer needs, with expertise in deep learning, natural language processing and software development. 
 
 Placed first in three international NLP competitions: [ASSIN 2](https://sites.google.com/view/assin2/english) at [STIL 2019](http://comissoes.sbc.org.br/ce-pln/stil2019/), [COLIEE 2021](https://icail.lawgorithm.com.br/workshop/coliee/) at [ICAIL 2021](https://icail.lawgorithm.com.br/), and [ABSAPT at IberLEF 2022](https://sites.google.com/inf.ufpel.edu.br/absapt2022/). 
 
