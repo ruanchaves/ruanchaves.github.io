@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /eplm
 title: "Evaluation of Portuguese Language Models"
 excerpt: ""
 author_profile: false
