@@ -2,10 +2,6 @@
 permalink: /eplm
 title: "Evaluation of Portuguese Language Models"
 excerpt: ""
-author_profile: false
-redirect_from: 
-  - /eplm/
-  - /eplm.html
 ---
 
 <iframe
