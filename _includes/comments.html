@@ -12,6 +12,22 @@
   {% when "google-plus" %}
     <h4 class="page__comments-title">{{ comments_label }}</h4>
     <section class="g-comments" data-href="{{ base_path }}{{ page.url }}" data-first_party_property="BLOGGER" data-view_type="FILTERED_POSTMOD">Loading Google+ Comments ...</section>
+  {% when "giscus" %}
+    <script src="https://giscus.app/client.js"
+      data-repo="ruanchaves/ruanchaves.github.io"
+      data-repo-id="R_kgDOGsm_jg"
+      data-category="General"
+      data-category-id="DIC_kwDOGsm_js4CWafE"
+      data-mapping="pathname"
+      data-strict="0"
+      data-reactions-enabled="1"
+      data-emit-metadata="0"
+      data-input-position="bottom"
+      data-theme="preferred_color_scheme"
+      data-lang="en"
+      crossorigin="anonymous"
+      async>
+    </script>
   {% when "staticman" %}
     <section id="comments">
       {% if site.repository and site.staticman.branch %}

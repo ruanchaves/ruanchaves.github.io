@@ -7,14 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-<iframe
-	src="https://ruanchaves-portuguese-question-answering.hf.space"
-	frameborder="0"
-	width="850"
-	height="450"
-></iframe>
-
-
 ## Locations of key files/directories
 
 * Basic config options: _config.yml

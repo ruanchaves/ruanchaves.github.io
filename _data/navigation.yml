@@ -1,14 +1,20 @@
 # main links links
 main:
 
-  - title: "Email"    
-    url: mailto:ruanchaves93@gmail.com
+  - title: "About"
+    url: /about/
 
-  - title: "Blog"
-    url: https://ruanchaves.medium.com/
+  - title: "Blog Posts"
+    url: /year-archive/
 
-  - title: "GitHub"
-    url: https://github.com/ruanchaves/
+  - title: "Publications"
+    url: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=3JDK8KEAAAAJ
 
-  - title: "LinkedIn"
-    url: https://linkedin.com/in/ruanchaves/
+  - title: "Talks"
+    url: /talks/    
+    
+  - title: "Portfolio"
+    url: https://github.com/ruanchaves
+  
+  - title: "Subscribe"
+    url: /subscribe/
