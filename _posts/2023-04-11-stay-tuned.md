@@ -20,7 +20,7 @@ Take for instance, ZetaAlpha. Their free plan offers "a powerful neural search a
 
 I was fortunate to collaborate briefly with [Rodrigo Nogueira, a scientific advisor at Zeta Alpha](https://www.zeta-alpha.com/post/automated-research-assistants-and-neural-information-retrieval-an-interview-with-rodrigo-nogueira), on research pertinent to the platform's development. As part of the Neuralmind team, we made significant contributions in the field of information retrieval at the [COLIEE 2021 competition](https://ruanchaves.github.io/talks/2012-01-01-coliee-2021). You can check out [his latest talks](https://www.youtube.com/watch?v=KsWjMRRl9dM) on their YouTube channel for a deeper understanding of the research underpinning the platform. 
 
-Other noteworthy discovery platforms include [ResearchRabbit](https://www.researchrabbit.ai/) and [Litmap](https://www.litmaps.com/). Litmap presents an engaging graph network visualization of citations between papers, such as the map for the first BERT paper by Devlin et al. [here](https://app.litmaps.com/seed/249502390?utm_source=litmaps&utm_content=home-seed).
+Other noteworthy discovery platforms include [ResearchRabbit](https://www.researchrabbit.ai/) and [Litmap](https://www.litmaps.com/). Litmap presents an engaging graph network visualization of citations between papers, such as the citation map for the first BERT paper [here](https://app.litmaps.com/seed/249502390?utm_source=litmaps&utm_content=home-seed).
 
 # Strategy 2: Keep an Eye on Major Conferences  
 
