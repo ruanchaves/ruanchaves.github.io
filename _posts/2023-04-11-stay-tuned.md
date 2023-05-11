@@ -5,6 +5,7 @@ permalink: /posts/2023/04/stay-tuned/
 tags:
   - research
   - NLP
+image: brain.png
 ---
 
 ![](/images/brain.png) 
