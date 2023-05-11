@@ -7,7 +7,7 @@ tags:
   - NLP
 ---
 
-![](/images/brain.png)
+![](/images/brain.png) 
 
 At present, Natural Language Processing (NLP) is [having its Stable Diffusion moment](https://simonwillison.net/2023/Mar/11/llama/), marked by rapid advances and fascinating breakthroughs. This pace of growth can be, frankly, a bit daunting. Some have even humorously suggested that [Elon Musk's idea](https://fortune.com/2023/03/29/elon-musk-apple-steve-wozniak-over-1100-sign-open-letter-6-month-ban-creating-powerful-ai/) of a 6-month moratorium on creating powerful A.I. would be a welcome respite, allowing us to better digest the wealth of new research. But since that pause isn't likely to happen, how can we keep up with the latest in the field? Let's explore.
 
