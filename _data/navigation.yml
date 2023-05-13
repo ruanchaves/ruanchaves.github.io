@@ -1,6 +1,9 @@
 # main links links
 main:
 
+  - title: "LinkedIn"
+    url: https://www.linkedin.com/in/ruanchaves/
+
   - title: "About"
     url: /about/
 
