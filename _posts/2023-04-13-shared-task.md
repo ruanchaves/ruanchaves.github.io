@@ -1,6 +1,6 @@
 ---
 title: 'MEDDOPLACE Shared Task'
-date: 2023-04-11
+date: 2023-04-13
 permalink: /posts/2023/04/shared-task/
 tags:
   - competition
