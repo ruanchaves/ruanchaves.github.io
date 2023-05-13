@@ -1,7 +1,7 @@
 ---
 title: 'MEDDOPLACE Shared Task'
 date: 2023-05-13
-permalink: /posts/2023/04/shared-task/
+permalink: /posts/2023/05/shared-task/
 tags:
   - competition
   - NLP
