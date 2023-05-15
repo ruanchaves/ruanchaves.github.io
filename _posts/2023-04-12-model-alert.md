@@ -1,6 +1,6 @@
 ---
 title: 'New Portuguese NLP Model Alert: Albertina-PT'
-date: 2023-04-11
+date: 2023-05-11
 permalink: /posts/2023/04/model-alert/
 tags:
   - research

@@ -1,6 +1,6 @@
 ---
 title: 'Navigating the Exciting World of NLP: Staying Current with the Latest Advances'
-date: 2023-04-11
+date: 2023-05-11
 permalink: /posts/2023/04/stay-tuned/
 tags:
   - research
