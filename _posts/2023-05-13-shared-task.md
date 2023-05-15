@@ -8,8 +8,6 @@ tags:
 image: meddoplace.jpg
 ---
 
-![](/images/meddoplace.jpg)
-
 Are you prepared to embark on an exhilarating challenge? You are invited to participate in the exciting MEDDOPLACE Shared Task. The clock is ticking as the deadline for Subtasks 2 + 3 on June 12th, 2023 approaches. It is strongly encouraged for you to seize this opportunity to showcase your skills and make a mark in the field of AI and healthcare. Easily review all the important dates on Codalab:
 
 
@@ -29,3 +27,6 @@ MEDDOPLACE offers four different sub-tasks, each focused on a specific problem: 
 
 
 🚀 This is an incredible opportunity for anyone interested in the intersection of AI, NLP, and healthcare. Don't miss out!
+
+
+![](/images/meddoplace.jpg)

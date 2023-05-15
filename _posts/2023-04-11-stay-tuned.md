@@ -8,8 +8,6 @@ tags:
 image: brain.png
 ---
 
-![](/images/brain.png) 
-
 At present, Natural Language Processing (NLP) is [having its Stable Diffusion moment](https://simonwillison.net/2023/Mar/11/llama/), marked by rapid advances and fascinating breakthroughs. This pace of growth can be, frankly, a bit daunting. Some have even humorously suggested that [Elon Musk's idea](https://fortune.com/2023/03/29/elon-musk-apple-steve-wozniak-over-1100-sign-open-letter-6-month-ban-creating-powerful-ai/) of a 6-month moratorium on creating powerful A.I. would be a welcome respite, allowing us to better digest the wealth of new research. But since that pause isn't likely to happen, how can we keep up with the latest in the field? Let's explore.
 
 # Strategy 1: Leverage Specialized Platforms
@@ -69,3 +67,5 @@ Lastly, don't forget to check out [trending Python repositories](https://github.
 # Wrapping Up
 
 That brings us to the end of our article. If you know of another great resource for staying current with NLP (and there are surely many we haven't mentioned here), please share it in the comments below.
+
+![](/images/brain.png) 
