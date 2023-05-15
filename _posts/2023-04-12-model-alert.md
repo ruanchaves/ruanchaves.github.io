@@ -8,8 +8,6 @@ tags:
 image: albertina.jpg
 ---
 
-![](/images/albertina.jpg)
-
 I am thrilled to announce the latest milestone in the advancement of Portuguese language technology - the Albertina PT ! This breakthrough comes from a dedicated team of researchers at the University of Lisbon and the University of Porto.
 
 The Albertina PT is a Transformer model based on the DeBERTa architecture, setting a new state-of-the-art for both European Portuguese (PT-PT) and Brazilian Portuguese (PT-BR). It outperforms competing models in key language processing tasks and shows superior performance on the Portuguese GLUE tasks.
