@@ -27,6 +27,3 @@ MEDDOPLACE offers four different sub-tasks, each focused on a specific problem: 
 
 
 🚀 This is an incredible opportunity for anyone interested in the intersection of AI, NLP, and healthcare. Don't miss out!
-
-
-![](/images/meddoplace.jpg)

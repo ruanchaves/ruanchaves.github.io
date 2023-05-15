@@ -67,5 +67,3 @@ Lastly, don't forget to check out [trending Python repositories](https://github.
 # Wrapping Up
 
 That brings us to the end of our article. If you know of another great resource for staying current with NLP (and there are surely many we haven't mentioned here), please share it in the comments below.
-
-![](/images/brain.png) 

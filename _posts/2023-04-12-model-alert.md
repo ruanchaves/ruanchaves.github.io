@@ -21,5 +21,3 @@ Albertina PT-BR: [https://huggingface.co/PORTULAN/albertina-ptbr](https://huggin
 Albertina PT-PT: [https://huggingface.co/PORTULAN/albertina-ptpt](https://huggingface.co/PORTULAN/albertina-ptpt)
 
 Paper: [https://arxiv.org/abs/2305.06721](https://arxiv.org/abs/2305.06721)
-
-![](albertina.jpg)
