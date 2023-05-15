@@ -11,15 +11,15 @@ Machine Learning Engineer with a robust background in Computer Science, presentl
 
 🏆 Key Achievements: 
 
-- Placed first in three international NLP competitions: [ASSIN 2](https://sites.google.com/view/assin2/english) at [STIL 2019](http://comissoes.sbc.org.br/ce-pln/stil2019/), [COLIEE 2021](https://icail.lawgorithm.com.br/workshop/coliee/) at [ICAIL 2021](https://icail.lawgorithm.com.br/), and [ABSAPT at IberLEF 2022](https://sites.google.com/inf.ufpel.edu.br/absapt2022/). 
+- Publication record with over 40 citations, including being cited by papers at top NLP conferences (LREC 2022).
 
-- Developed [Hashformers](https://github.com/ruanchaves/hashformers), a cutting-edge framework for hashtag segmentation that was independently validated by researchers at Indian Institutes of Technology (IITs) and demonstrated up to 25% higher accuracy compared to the previous state-of-the-art.
+- Placed first in three international NLP competitions organized by prestigious research institutions, including the Alberta Machine Intelligence Institute (Amii) and the Spanish Society for Natural Language Processing.
 
 💡 Core Skills:
 
 * Proficiency in Python and essential data science and machine learning libraries such as scikit-learn, numpy, scipy, and pandas.
 * Experience with Google Cloud Platform (GCP).
-* Hands-on expertise with PyTorch and Natural Language Processing models and libraries.
+* Hands-on expertise with PyTorch and Natural Language Processing models and libraries, such as Hugging Face transformers, AllenNLP, spaCy, and NLTK.
 
 <h3 align="center">Follow me: </h3>
 
