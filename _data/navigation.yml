@@ -1,23 +1,17 @@
 # main links links
 main:
 
-  - title: "LinkedIn"
-    url: https://www.linkedin.com/in/ruanchaves/
-
   - title: "About"
-    url: /about/
+    url: /
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Blog"
+    url: https://ruanchaves.medium.com/
+
+  - title: "Talks"
+    url: /talks/    
 
   - title: "Publications"
     url: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=3JDK8KEAAAAJ
 
-  - title: "Talks"
-    url: /talks/    
-    
   - title: "Portfolio"
     url: https://github.com/ruanchaves
-  
-  - title: "Subscribe"
-    url: /subscribe/
