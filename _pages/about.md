@@ -18,7 +18,6 @@ For collaboration opportunities or general inquiries, connect with me on [Linked
 Stay updated on my latest insights about NLP, machine learning, and various side projects. Follow me on: 
 * [LinkedIn](https://www.linkedin.com/in/ruanchaves/)
 * [Medium](https://ruanchaves.medium.com/)
-* [Twitter](https://twitter.com/ruanchaves93)
 
 ## Talks
 For a deep dive into my discourse at events and academic conferences, please visit [my YouTube channel](https://www.youtube.com/@ruanchaves393/videos).
