@@ -31,7 +31,6 @@ Explore my open-source portfolio on [Github](https://github.com/ruanchaves).
 
 
 <p align="center" >
-  <a href="https://twitter.com/ruanchaves93"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Twitter.png" width="50" /></a>
   <a href="https://www.linkedin.com/in/ruanchaves"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" width="50" /></a>
   <a href="https://github.com/ruanchaves"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Black/Github_black.png" width="50" /></a>
   <a href="https://ruanchaves.medium.com/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Medium.png" width="50" /></a>
