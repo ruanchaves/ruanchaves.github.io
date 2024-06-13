@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 
-I am a Data Scientist with a robust background in Computer Science, currently advancing my knowledge in the [Erasmus Mundus European Masters Program in Language and Communication Technologies (LCT)](https://lct-master.org/). I specialize in deep learning, natural language processing, and software development.
+Senior Software Engineer with a robust background in Computer Science and a [Master's degree in Language and Communication Technologies](https://lct-master.org/). Expertise in deep learning, natural language processing, and software development.
 
 ## Portfolio
 Explore my open-source portfolio on [Github](https://github.com/ruanchaves).
