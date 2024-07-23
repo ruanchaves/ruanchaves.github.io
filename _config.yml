@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ruan Chaves Rodrigues"
 title_separator          : "-"
 name                     : &name "Ruan Chaves Rodrigues"
-description              : &description "Software Engineer"
+description              : &description "Data Scientist"
 url                      : https://ruanchaves.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ruanchaves/ruanchaves.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ruan Chaves Rodrigues"
   avatar           : "profile.jpg"
-  bio              : "Senior Software Engineer"
+  bio              : "Senior Data Scientist"
   location         : "Brazil"
   employer         :
   pubmed           :
