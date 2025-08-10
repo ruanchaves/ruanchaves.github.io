@@ -37,5 +37,4 @@ Access my academic research on [Google Scholar](https://scholar.google.com/citat
   <a href="https://www.linkedin.com/in/ruanchaves"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" width="50" /></a>
   <a href="https://github.com/ruanchaves"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Black/Github_black.png" width="50" /></a>
   <a href="https://ruanchaves.medium.com/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Medium.png" width="50" /></a>
-  <a href="https://www.youtube.com/@ruanchaves393"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Youtube.png" width="50" /></a>
 </p>
