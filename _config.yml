@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ruan Chaves Rodrigues"
 title_separator          : "-"
 name                     : &name "Ruan Chaves Rodrigues"
-description              : &description "Data Scientist"
+description              : &description "Senior AI Engineer with 5+ years of experience in Generative AI, LLMs, and NLP. Double Master’s in AI and NLP. Contributor to open-source AI projects and research."
 url                      : https://ruanchaves.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ruanchaves/ruanchaves.github.io"
@@ -62,13 +62,17 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  "profile.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Ruan Chaves Rodrigues"
+  links:
+    - "https://github.com/ruanchaves"
+    - "https://www.linkedin.com/in/ruanchaves/"
+    - "https://scholar.google.com/citations?user=3JDK8KEAAAAJ&hl=en"
+    - "https://ruanchaves.medium.com/"
 
 
 # Analytics
@@ -82,7 +86,7 @@ analytics:
 author:
   name             : "Ruan Chaves Rodrigues"
   avatar           : "profile.jpg"
-  bio              : "Senior Data Scientist"
+  bio              : "Senior AI Engineer with 5+ years of experience in Generative AI, LLMs, and NLP. Double Master’s in AI and NLP. Contributor to open-source AI projects and research."
   location         : "Brazil"
   employer         :
   pubmed           :

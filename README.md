@@ -1,3 +1,21 @@
+# Ruan Chaves Rodrigues — Personal Website
+
+Welcome to my personal website! I am a Senior Data Scientist based in Brazil. Here you can find my portfolio, publications, talks, and blog posts.
+
+## Main Sections
+- **About**: Learn more about me and my background.
+- **Blog**: Read my articles on Medium.
+- **Talks**: Watch my presentations and talks on YouTube.
+- **Publications**: See my research on Google Scholar.
+- **Portfolio**: Explore my projects on GitHub.
+
+## Contact
+Feel free to reach out via [email](mailto:ruanchaves93@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ruanchaves/).
+
+---
+
+This site is built with Jekyll and the Minimal Mistakes theme. For technical details, see below.
+
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
 I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.

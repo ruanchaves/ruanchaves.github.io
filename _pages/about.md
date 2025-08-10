@@ -9,7 +9,14 @@ redirect_from:
 
 # About Me
 
-Senior Data Scientist with a robust background in Computer Science and a [Master's degree in Language and Communication Technologies](https://lct-master.org/). Expertise in deep learning, natural language processing, and software development.
+Senior AI Engineer with 5+ years of experience designing and deploying production-ready Generative AI, LLM, and NLP solutions. Proven success in both fast-paced startups and large enterprises.
+
+Holds a double Master’s degree in AI and NLP (University of Malta & University of the Basque Country) and a Bachelor’s in Computer Science from UFG, a leading AI research university in Brazil.
+
+Experienced in leading and collaborating with distributed remote teams across Europe, Latin America, and the U.S. to deliver complex AI projects on schedule.
+
+Contributor to language model research, having developed open-source projects used by the AI community and contributed new features to major AI open-source libraries.
+
 
 ## Portfolio
 Explore my open-source portfolio on [Github](https://github.com/ruanchaves).
@@ -21,9 +28,6 @@ For collaboration opportunities or general inquiries, connect with me on [Linked
 Stay updated on my latest insights about NLP, machine learning, and various side projects. Follow me on: 
 * [LinkedIn](https://www.linkedin.com/in/ruanchaves/)
 * [Medium](https://ruanchaves.medium.com/)
-
-## Talks
-For a deep dive into my discourse at events and academic conferences, please visit [my YouTube channel](https://www.youtube.com/@ruanchaves393/videos).
 
 ## Academic Publications
 Access my academic research on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=3JDK8KEAAAAJ).
