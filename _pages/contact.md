@@ -8,9 +8,9 @@ excerpt: "Best ways to reach me for roles, consulting, or collaboration."
 
 {% assign candidate = site.data.candidate %}
 
-## Best next step
+## Contact
 
-<p>If you're hiring for a senior applied AI, GenAI, or NLP role, email is the fastest path.</p>
+<p>Email is the fastest way to reach me.</p>
 
 <section class="contact-grid">
   <div class="content-panel">

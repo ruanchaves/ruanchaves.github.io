@@ -8,7 +8,7 @@ The current version is structured as a recruiter-focused funnel for senior AI ro
 - `Experience`: quantified delivery history and impact
 - `Projects`: open-source and engineering credibility
 - `Research`: publications, awards, and research-backed proof
-- `Writing`: selected essays relevant to GenAI and evaluation
+- `Blog`: on-site essays relevant to GenAI and evaluation
 - `Resume`: recruiter-ready summary plus PDF download
 - `Contact`: the fastest path for hiring conversations
 
