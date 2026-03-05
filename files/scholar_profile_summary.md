@@ -1,0 +1,164 @@
+# Google Scholar Profile Export
+
+- Source: https://scholar.google.com/citations?user=3JDK8KEAAAAJ&hl=en
+- Retrieved from raw HTML file: scholar_profile_raw.html
+
+## Profile
+- Name: Ruan Chaves Rodrigues
+- Affiliation: University of Malta
+- Verified email: Verified email at um.edu.mt - Homepage
+- Homepage: https://ruanchaves.github.io/
+- Interests: Natural Language Processing
+
+## Metrics
+- citations: all=152, since_2021=146
+- h_index: all=5, since_2021=5
+- i10_index: all=4, since_2021=4
+
+## Yearly Citations
+- 2020: 5
+- 2021: 9
+- 2022: 27
+- 2023: 29
+- 2024: 42
+- 2025: 37
+- 2026: 2
+
+## Co-authors (4)
+- Anderson da Silva Soares | Deep Learning Brazil at Federal University of Goias. | Verified email at inf.ufg.br | https://scholar.google.com/citations?user=fDg7K88AAAAJ&hl=en
+- Nádia Félix Felipe da Silva | Universidade Federal de Goiás | Verified email at inf.ufg.br | https://scholar.google.com/citations?user=JNA98FgAAAAJ&hl=en
+- Acquila Santos Rocha | Mestre, Universidade Federal de Goiás | Verified email at discente.ufg.br | https://scholar.google.com/citations?user=MrlweYoAAAAJ&hl=en
+- Hugo Alexandre Dantas do Nascimento | Instituto de Informática, Universidade Federal de Goiás | Verified email at inf.ufg.br | https://scholar.google.com/citations?user=agLnwvoAAAAJ&hl=en
+
+## Articles (11)
+- Yes, bm25 is a strong baseline for legal case retrieval (2021) | Cited by 78
+  - Authors: GM Rosa, RC Rodrigues, R Lotufo, R Nogueira
+  - Venue: arXiv preprint arXiv:2105.05686 , 2021
+  - Details: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:IjCSPb-OGe4C
+- To tune or not to tune? zero-shot models for legal case entailment (2021) | Cited by 23
+  - Authors: GM Rosa, RC Rodrigues, R de Alencar Lotufo, R Nogueira
+  - Venue: Proceedings of the Eighteenth International Conference on Artificial … , 2021
+  - Details: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:UeHWp8X0CEIC
+- Multilingual Transformer Ensembles for Portuguese Natural Language Tasks () | Cited by 18
+  - Authors: RC Rodrigues, J Rodrigues, PVQ de Castro, NFF da Silva, A Soares
+  - Venue: 
+  - Details: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:qjMakFHDy7sC
+- Portuguese language models and word embeddings: evaluating on semantic similarity tasks (2020) | Cited by 14
+  - Authors: RC Rodrigues, J Rodrigues, PVQ de Castro, NFF da Silva, A Soares
+  - Venue: International conference on computational processing of the portuguese … , 2020
+  - Details: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:u-x6o8ySG0sC
+- Deep learning brasil at absapt 2022: Portuguese transformer ensemble approaches (2023) | Cited by 8
+  - Authors: JRS Gomes, EAS Garcia, AFB Junior, RC Rodrigues, DFC Silva, DF Maia, ...
+  - Venue: arXiv preprint arXiv:2311.05051 , 2023
+  - Details: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:LkGwnXOMwfcC
+- Zero-shot hashtag segmentation for multilingual sentiment analysis (2021) | Cited by 5
+  - Authors: RC Rodrigues, MA Inuzuka, JRSA Gomes, AS Rocha, I Calixto, ...
+  - Venue: arXiv preprint arXiv:2112.03213 , 2021
+  - Details: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:Y0pCki6q_DkC
+- Domain adaptation of transformers for english word segmentation (2020) | Cited by 4
+  - Authors: RC Rodrigues, AS Rocha, MA Inuzuka, HAD do Nascimento
+  - Venue: Brazilian Conference on Intelligent Systems, 483-496 , 2020
+  - Details: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:9yKSN-GCB0IC
+- Lessons learned from the evaluation of Portuguese language models (2023) | Cited by 2
+  - Authors: R Chaves Rodrigues
+  - Venue: University of Malta , 2023
+  - Details: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:hqOjcs7Dif8C
+- Deep Learning Brasil at ABSAPT 2022: Portuguese Transformer Ensemble Approaches (2023) | Cited by 0
+  - Authors: J Resplande Santanna Gomes, EA Santos Garcia, ...
+  - Venue: arXiv e-prints, arXiv: 2311.05051 , 2023
+  - Details: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:5nxA0vEk-isC
+- Construção de Datasets para Segmentação Automática de Hashtags (2020) | Cited by 0
+  - Authors: J Resplande, RC Rodrigues, MA Inuzuka, AS Rocha, ...
+  - Venue: XV Encontro Anual de Ciência da Computação (EnAComp 2020) , 2020
+  - Details: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:2osOgNQ5qMEC
+- eplm () | Cited by 0
+  - Authors: R Chaves Rodrigues, M Tanti, R Agerri
+  - Venue: Zenodo , 0
+  - Details: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:0EnyYjriUFMC
+
+## Article Details Retrieved (11)
+- Yes, bm25 is a strong baseline for legal case retrieval
+  - Authors: Guilherme Moraes Rosa, Ruan Chaves Rodrigues, Roberto Lotufo, Rodrigo Nogueira
+  - Publication date: 2021/4/26
+  - Journal: arXiv preprint arXiv:2105.05686
+  - Description: We describe our single submission to task 1 of COLIEE 2021. Our vanilla BM25 got second place, well above the median of submissions. Code is available at https://github.com/neuralmind-ai/coliee.
+  - Total citations: Cited by 78 2021 2022 2023 2024 2025 2026 1 12 16 21 27 1
+  - Scholar articles: Yes, bm25 is a strong baseline for legal case retrieval GM Rosa, RC Rodrigues, R Lotufo, R Nogueira - arXiv preprint arXiv:2105.05686, 2021 Cited by 78 Related articles All 2 versions
+  - Description: We describe our single submission to task 1 of COLIEE 2021. Our vanilla BM25 got second place, well above the median of submissions. Code is available at https://github.com/neuralmind-ai/coliee.
+- To tune or not to tune? zero-shot models for legal case entailment
+  - Authors: Guilherme Moraes Rosa, Ruan Chaves Rodrigues, Roberto de Alencar Lotufo, Rodrigo Nogueira
+  - Publication date: 2021/6/21
+  - Book: Proceedings of the Eighteenth International Conference on Artificial Intelligence and Law
+  - Pages: 295-300
+  - Description: There has been mounting evidence that pretrained language models fine-tuned on large and diverse supervised datasets can transfer well to a variety of out-of-domain tasks. In this work, we investigate this transfer ability to the legal domain. For that, we participated in the legal case entailment task of COLIEE 2021, in which we use such models with no adaptations to the target domain. Our submissions achieved the highest scores, surpassing the second-best submission by more than six percentage points. Our experiments confirm a counter-intuitive result in the new paradigm of pretrained language models: given limited labeled data, models with little or no adaption to the target task can be more robust to changes in the data distribution than models fine-tuned on it. Code is available at https://github.com/neuralmind-ai/coliee.
+  - Total citations: Cited by 23 2022 2023 2024 2025 2026 7 6 9 1
+  - Scholar articles: To tune or not to tune? zero-shot models for legal case entailment GM Rosa, RC Rodrigues, R de Alencar Lotufo… - … of the Eighteenth International Conference on Artificial …, 2021 Cited by 23 Related articles All 5 versions
+  - Description: There has been mounting evidence that pretrained language models fine-tuned on large and diverse supervised datasets can transfer well to a variety of out-of-domain tasks. In this work, we investigate this transfer ability to the legal domain. For that, we participated in the legal case entailment task of COLIEE 2021, in which we use such models with no adaptations to the target domain. Our submissions achieved the highest scores, surpassing the second-best submission by more than six percentage points. Our experiments confirm a counter-intuitive result in the new paradigm of pretrained language models: given limited labeled data, models with little or no adaption to the target task can be more robust to changes in the data distribution than models fine-tuned on it. Code is available at https://github.com/neuralmind-ai/coliee.
+- Multilingual Transformer Ensembles for Portuguese Natural Language Tasks
+  - Authors: Ruan Chaves Rodrigues, Jéssica Rodrigues, Pedro Vitor Quinta de Castro, Nádia Felix Felipe da Silva, Anderson Soares
+  - Description: Due to the technical gap between the language models available for low-resource languages and the state-of-the-art models available in English and Chinese, a simple approach that deploys automatic translation and ensembles predictions from Portuguese and English models is competitive with monolingual Portuguese approaches that may demand task-specific preprocessing and hand-crafted features. We performed our experiments on ASSIN 2–the second edition of the Avaliaçao de Similaridade Semântica e Inferência Textual (Evaluating Semantic Similarity and Textual Entailment). On the semantic textual similarity task, we performed multilingual ensemble techniques to achieve results with higher Pearson correlation and lower mean squared error than BERT-multilingual, and on the textual entailment task, BERT-multilingual could be surpassed by automatically translating the corpus into English and then fine-tuning a large RoBERTa model over the translated texts.
+  - Total citations: Cited by 18 2020 2021 2022 2023 2024 2025 3 5 3 4 2 1
+  - Scholar articles: Multilingual Transformer Ensembles for Portuguese Natural Language Tasks. * RC Rodrigues, JR da Silva, PVQ de Castro… - ASSIN@ STIL, 2019 Cited by 17 Related articles Multilingual Transformer Ensembles for Portuguese Natural Language Tasks NFFS Castro, A da Silva Soares - 2020 Cited by 1 Related articles All 3 versions
+  - Description: Due to the technical gap between the language models available for low-resource languages and the state-of-the-art models available in English and Chinese, a simple approach that deploys automatic translation and ensembles predictions from Portuguese and English models is competitive with monolingual Portuguese approaches that may demand task-specific preprocessing and hand-crafted features. We performed our experiments on ASSIN 2–the second edition of the Avaliaçao de Similaridade Semântica e Inferência Textual (Evaluating Semantic Similarity and Textual Entailment). On the semantic textual similarity task, we performed multilingual ensemble techniques to achieve results with higher Pearson correlation and lower mean squared error than BERT-multilingual, and on the textual entailment task, BERT-multilingual could be surpassed by automatically translating the corpus into English and then fine-tuning a large RoBERTa model over the translated texts.
+- Portuguese language models and word embeddings: evaluating on semantic similarity tasks
+  - Authors: Ruan Chaves Rodrigues, Jéssica Rodrigues, Pedro Vitor Quinta de Castro, Nádia Felix Felipe da Silva, Anderson Soares
+  - Publication date: 2020/2/24
+  - Book: International conference on computational processing of the portuguese language
+  - Pages: 239-248
+  - Publisher: Springer International Publishing
+  - Description: Deep neural language models which achieved state-of-the-art results on downstream natural language processing tasks have recently been trained for the Portuguese language. However, studies that systematically evaluate such models are still necessary for several applications. In this paper, we propose to evaluate the performance of deep neural language models on the semantic similarity tasks provided by the ASSIN dataset against classical word embeddings, both for Brazilian Portuguese and for European Portuguese. Our experiments indicate that the ELMo language model was able to achieve better accuracy than any other pretrained model which has been made publicly available for the Portuguese language, and that performing vocabulary reduction on the dataset before training not only improved the standalone performance of ELMo, but also improved its performance while combined with classical …
+  - Total citations: Cited by 14 2020 2021 2022 2023 2024 2025 2 2 3 2 1 3
+  - Scholar articles: Portuguese language models and word embeddings: evaluating on semantic similarity tasks RC Rodrigues, J Rodrigues, PVQ de Castro… - … conference on computational processing of the …, 2020 Cited by 14 Related articles All 5 versions
+  - Description: Deep neural language models which achieved state-of-the-art results on downstream natural language processing tasks have recently been trained for the Portuguese language. However, studies that systematically evaluate such models are still necessary for several applications. In this paper, we propose to evaluate the performance of deep neural language models on the semantic similarity tasks provided by the ASSIN dataset against classical word embeddings, both for Brazilian Portuguese and for European Portuguese. Our experiments indicate that the ELMo language model was able to achieve better accuracy than any other pretrained model which has been made publicly available for the Portuguese language, and that performing vocabulary reduction on the dataset before training not only improved the standalone performance of ELMo, but also improved its performance while combined with classical …
+- Deep learning brasil at absapt 2022: Portuguese transformer ensemble approaches
+  - Authors: Juliana Resplande Santanna Gomes, Eduardo Augusto Santos Garcia, Adalberto Ferreira Barbosa Junior, Ruan Chaves Rodrigues, Diogo Fernandes Costa Silva, Dyonnatan Ferreira Maia, Nádia Félix Felipe da Silva, Anderson da Silva Soares
+  - Publication date: 2023/11/8
+  - Journal: arXiv preprint arXiv:2311.05051
+  - Description: Aspect-based Sentiment Analysis (ABSA) is a task whose objective is to classify the individual sentiment polarity of all entities, called aspects, in a sentence. The task is composed of two subtasks: Aspect Term Extraction (ATE), identify all aspect terms in a sentence; and Sentiment Orientation Extraction (SOE), given a sentence and its aspect terms, the task is to determine the sentiment polarity of each aspect term (positive, negative or neutral). This article presents we present our participation in Aspect-Based Sentiment Analysis in Portuguese (ABSAPT) 2022 at IberLEF 2022. We submitted the best performing systems, achieving new state-of-the-art results on both subtasks.
+  - Total citations: Cited by 8 2022 2023 2024 1 7
+  - Scholar articles: Deep learning brasil at absapt 2022: Portuguese transformer ensemble approaches JRS Gomes, EAS Garcia, AFB Junior, RC Rodrigues… - arXiv preprint arXiv:2311.05051, 2023 Cited by 8 Related articles All 3 versions
+  - Description: Aspect-based Sentiment Analysis (ABSA) is a task whose objective is to classify the individual sentiment polarity of all entities, called aspects, in a sentence. The task is composed of two subtasks: Aspect Term Extraction (ATE), identify all aspect terms in a sentence; and Sentiment Orientation Extraction (SOE), given a sentence and its aspect terms, the task is to determine the sentiment polarity of each aspect term (positive, negative or neutral). This article presents we present our participation in Aspect-Based Sentiment Analysis in Portuguese (ABSAPT) 2022 at IberLEF 2022. We submitted the best performing systems, achieving new state-of-the-art results on both subtasks.
+- Zero-shot hashtag segmentation for multilingual sentiment analysis
+  - Authors: Ruan Chaves Rodrigues, Marcelo Akira Inuzuka, Juliana Resplande Sant'Anna Gomes, Acquila Santos Rocha, Iacer Calixto, Hugo Alexandre Dantas do Nascimento
+  - Publication date: 2021/12/6
+  - Journal: arXiv preprint arXiv:2112.03213
+  - Description: Hashtag segmentation, also known as hashtag decomposition, is a common step in preprocessing pipelines for social media datasets. It usually precedes tasks such as sentiment analysis and hate speech detection. For sentiment analysis in medium to low-resourced languages, previous research has demonstrated that a multilingual approach that resorts to machine translation can be competitive or superior to previous approaches to the task. We develop a zero-shot hashtag segmentation framework and demonstrate how it can be used to improve the accuracy of multilingual sentiment analysis pipelines. Our zero-shot framework establishes a new state-of-the-art for hashtag segmentation datasets, surpassing even previous approaches that relied on feature engineering and language models trained on in-domain data.
+  - Total citations: Cited by 5 2022 2023 2024 2025 1 2 2
+  - Scholar articles: Zero-shot hashtag segmentation for multilingual sentiment analysis RC Rodrigues, MA Inuzuka, JRSA Gomes, AS Rocha… - arXiv preprint arXiv:2112.03213, 2021 Cited by 5 Related articles All 3 versions Zero-shot hashtag segmentation for multilingual sentiment analysis * R Chaves Rodrigues, M Akira Inuzuka… - arXiv e-prints, 2021 Related articles
+  - Description: Hashtag segmentation, also known as hashtag decomposition, is a common step in preprocessing pipelines for social media datasets. It usually precedes tasks such as sentiment analysis and hate speech detection. For sentiment analysis in medium to low-resourced languages, previous research has demonstrated that a multilingual approach that resorts to machine translation can be competitive or superior to previous approaches to the task. We develop a zero-shot hashtag segmentation framework and demonstrate how it can be used to improve the accuracy of multilingual sentiment analysis pipelines. Our zero-shot framework establishes a new state-of-the-art for hashtag segmentation datasets, surpassing even previous approaches that relied on feature engineering and language models trained on in-domain data.
+- Domain adaptation of transformers for english word segmentation
+  - Authors: Ruan Chaves Rodrigues, Acquila Santos Rocha, Marcelo Akira Inuzuka, Hugo Alexandre Dantas do Nascimento
+  - Publication date: 2020/10/13
+  - Book: Brazilian Conference on Intelligent Systems
+  - Pages: 483-496
+  - Publisher: Springer International Publishing
+  - Description: Word segmentation can contribute to improve the results of natural language processing tasks on several problem domains, including social media sentiment analysis, source code summarization and neural machine translation. Taking the English language as a case study, we fine-tune a Transformer architecture which has been trained through the Pre-trained Distillation (PD) algorithm, while comparing it to previous experiments with recurrent neural networks. We organize datasets and resources from multiple application domains under a unified format, and demonstrate that our proposed architecture has competitive performance and superior cross-domain generalization in comparison with previous approaches for word segmentation in Western languages.
+  - Total citations: Cited by 4 2021 2022 2023 2024 2025 1 1 2
+  - Scholar articles: Domain adaptation of transformers for english word segmentation RC Rodrigues, AS Rocha, MA Inuzuka… - Brazilian Conference on Intelligent Systems, 2020 Cited by 4 Related articles All 3 versions
+  - Description: Word segmentation can contribute to improve the results of natural language processing tasks on several problem domains, including social media sentiment analysis, source code summarization and neural machine translation. Taking the English language as a case study, we fine-tune a Transformer architecture which has been trained through the Pre-trained Distillation (PD) algorithm, while comparing it to previous experiments with recurrent neural networks. We organize datasets and resources from multiple application domains under a unified format, and demonstrate that our proposed architecture has competitive performance and superior cross-domain generalization in comparison with previous approaches for word segmentation in Western languages.
+- Lessons learned from the evaluation of Portuguese language models
+  - Authors: Ruan Chaves Rodrigues
+  - Publication date: 2023
+  - Institution: University of Malta
+  - Description: With the rising prominence of the Portuguese language in Natural Language Processing (NLP), a clear divide is observed between major corporations and smaller academic entities in model training. This raises an important question: can the efforts of smaller entities compete with major corporations in Portuguese natural language tasks? And which aspects should they prioritize to enhance their advantage? In our pursuit to answer this, we provide a historical overview of advancements in Portuguese NLP, from early word embeddings to the rise of Large Language Models (LLMs). We then discuss the linguistic challenges of benchmark construction and set out to perform a comprehensive evaluation of modern language models using a carefully designed benchmark. Using detailed evaluation methods and rigorous statistical analysis, our findings show no significant performance differences between models trained solely on Portuguese datasets and those trained on multilingual data. Our study challenges the perceived benefits of current Portuguese language models and highlights the need for deeper linguistic research and evaluation in Portuguese NLP. Our main contribution, the Natural Portuguese Language Benchmark (Napolab), is available at https://github.com/ruanchaves/napolab.
+  - Total citations: Cited by 2 2025 2
+  - Scholar articles: Lessons learned from the evaluation of Portuguese language models R Chaves Rodrigues - 2023 Cited by 2 Related articles All 2 versions
+  - Description: With the rising prominence of the Portuguese language in Natural Language Processing (NLP), a clear divide is observed between major corporations and smaller academic entities in model training. This raises an important question: can the efforts of smaller entities compete with major corporations in Portuguese natural language tasks? And which aspects should they prioritize to enhance their advantage? In our pursuit to answer this, we provide a historical overview of advancements in Portuguese NLP, from early word embeddings to the rise of Large Language Models (LLMs). We then discuss the linguistic challenges of benchmark construction and set out to perform a comprehensive evaluation of modern language models using a carefully designed benchmark. Using detailed evaluation methods and rigorous statistical analysis, our findings show no significant performance differences between models trained solely on Portuguese datasets and those trained on multilingual data. Our study challenges the perceived benefits of current Portuguese language models and highlights the need for deeper linguistic research and evaluation in Portuguese NLP. Our main contribution, the Natural Portuguese Language Benchmark (Napolab), is available at https://github.com/ruanchaves/napolab.
+- Deep Learning Brasil at ABSAPT 2022: Portuguese Transformer Ensemble Approaches
+  - Authors: Juliana Resplande Santanna Gomes, Eduardo Augusto Santos Garcia, Adalberto Ferreira Barbosa Junior, Ruan Chaves Rodrigues, Diogo Fernandes Costa Silva, Dyonnatan Ferreira Maia, Nádia Félix Felipe da Silva, Arlindo Rodrigues Galvão Filho, Anderson da Silva Soares
+  - Publication date: 2023/11
+  - Journal: arXiv e-prints
+  - Pages: arXiv: 2311.05051
+  - Description: Aspect-based Sentiment Analysis (ABSA) is a task whose objective is to classify the individual sentiment polarity of all entities, called aspects, in a sentence. The task is composed of two subtasks: Aspect Term Extraction (ATE), identify all aspect terms in a sentence; and Sentiment Orientation Extraction (SOE), given a sentence and its aspect terms, the task is to determine the sentiment polarity of each aspect term (positive, negative or neutral). This article presents we present our participation in Aspect-Based Sentiment Analysis in Portuguese (ABSAPT) 2022 at IberLEF 2022. We submitted the best performing systems, achieving new state-of-the-art results on both subtasks.
+  - Scholar articles: Deep Learning Brasil at ABSAPT 2022: Portuguese Transformer Ensemble Approaches J Resplande Santanna Gomes, EA Santos Garcia… - arXiv e-prints, 2023 Related articles
+  - Description: Aspect-based Sentiment Analysis (ABSA) is a task whose objective is to classify the individual sentiment polarity of all entities, called aspects, in a sentence. The task is composed of two subtasks: Aspect Term Extraction (ATE), identify all aspect terms in a sentence; and Sentiment Orientation Extraction (SOE), given a sentence and its aspect terms, the task is to determine the sentiment polarity of each aspect term (positive, negative or neutral). This article presents we present our participation in Aspect-Based Sentiment Analysis in Portuguese (ABSAPT) 2022 at IberLEF 2022. We submitted the best performing systems, achieving new state-of-the-art results on both subtasks.
+- Construção de Datasets para Segmentação Automática de Hashtags
+  - Authors: Juliana Resplande, Ruan Chaves Rodrigues, Marcelo Akira Inuzuka, Acquila Santos Rocha, Hugo Alexandre Dantas do Nascimento
+  - Publication date: 2020/11
+  - Conference: XV Encontro Anual de Ciência da Computação (EnAComp 2020)
+- eplm
+  - Authors: Ruan Chaves Rodrigues, Marc Tanti, Rodrigo Agerri
+  - Journal: Zenodo
+  - Description: We are excited to announce the release of v1. 0 of our ongoing research on fine-tuning Transformer models for Portuguese natural language understanding tasks. All of our fine-tuned models have been integrated into an appropriate Hugging Face Space. You can now interact with our models in your browser by exploring our demos: Portuguese Offensive Language Detection Portuguese Question Answering Portuguese Semantic Similarity Portuguese Textual Entailment Portuguese Text Simplification Our fine-tuning procedure has achieved results that are either slightly superior or at the same level as the previous state-of-the-art (if any). We performed hyperparameter optimization using quasi-random search based on Google's Deep Learning Playbook instructions. The release also includes a detailed summary of the fine-tuning procedure, and a summary of the results achieved on each dataset.
+  - Scholar articles: eplm R Chaves Rodrigues, M Tanti, R Agerri - Zenodo Related articles
+  - Description: We are excited to announce the release of v1. 0 of our ongoing research on fine-tuning Transformer models for Portuguese natural language understanding tasks. All of our fine-tuned models have been integrated into an appropriate Hugging Face Space. You can now interact with our models in your browser by exploring our demos: Portuguese Offensive Language Detection Portuguese Question Answering Portuguese Semantic Similarity Portuguese Textual Entailment Portuguese Text Simplification Our fine-tuning procedure has achieved results that are either slightly superior or at the same level as the previous state-of-the-art (if any). We performed hyperparameter optimization using quasi-random search based on Google's Deep Learning Playbook instructions. The release also includes a detailed summary of the fine-tuning procedure, and a summary of the results achieved on each dataset.
