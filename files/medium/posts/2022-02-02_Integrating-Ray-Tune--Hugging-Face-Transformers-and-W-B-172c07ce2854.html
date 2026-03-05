@@ -1,0 +1,72 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Integrating Ray Tune, Hugging Face Transformers and W&amp;B</title><style>
+      * {
+        font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+      }
+      html, body {
+        margin: 0;
+        padding: 0;
+      }
+      h1 {
+        font-size: 50px;
+        margin-bottom: 17px;
+        color: #333;
+      }
+      h2 {
+        font-size: 24px;
+        line-height: 1.6;
+        margin: 30px 0 0 0;
+        margin-bottom: 18px;
+        margin-top: 33px;
+        color: #333;
+      }
+      h3 {
+        font-size: 30px;
+        margin: 10px 0 20px 0;
+        color: #333;
+      }
+      header {
+        width: 640px;
+        margin: auto;
+      }
+      section {
+        width: 640px;
+        margin: auto;
+      }
+      section p {
+        margin-bottom: 27px;
+        font-size: 20px;
+        line-height: 1.6;
+        color: #333;
+      }
+      section img {
+        max-width: 640px;
+      }
+      footer {
+        padding: 0 20px;
+        margin: 50px 0;
+        text-align: center;
+        font-size: 12px;
+      }
+      .aspectRatioPlaceholder {
+        max-width: auto !important;
+        max-height: auto !important;
+      }
+      .aspectRatioPlaceholder-fill {
+        padding-bottom: 0 !important;
+      }
+      header,
+      section[data-field=subtitle],
+      section[data-field=description] {
+        display: none;
+      }
+      </style></head><body><article class="h-entry">
+<header>
+<h1 class="p-name">Integrating Ray Tune, Hugging Face Transformers and W&amp;B</h1>
+</header>
+<section data-field="subtitle" class="p-summary">
+Update 03/21/2021: I published my modified version of run_glue.py as a public gist on GitHub.
+</section>
+<section data-field="body" class="e-content">
+<section name="c3fb" class="section section--body section--first"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="ff69" id="ff69" class="graf graf--h3 graf--leading graf--title">Integrating Ray Tune, Hugging Face Transformers and W&amp;B</h3><figure name="02f2" id="02f2" class="graf graf--figure graf-after--h3"><img class="graf-image" data-image-id="1*IgLoVFCQt87iOoFteQPeCQ.png" data-width="1200" data-height="800" data-is-featured="true" src="https://cdn-images-1.medium.com/max/800/1*IgLoVFCQt87iOoFteQPeCQ.png"></figure><p name="1f3d" id="1f3d" class="graf graf--p graf-after--figure"><strong class="markup--strong markup--p-strong">Update 03/21/2021</strong>: I published my <a href="https://gist.github.com/ruanchaves/3015d0d1a790d45472396b67d0879e64" data-href="https://gist.github.com/ruanchaves/3015d0d1a790d45472396b67d0879e64" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">modified version of run_glue.py</a> as a public gist on GitHub.</p><p name="0b8a" id="0b8a" class="graf graf--p graf-after--p graf--trailing"><strong class="markup--strong markup--p-strong">Update 03/22/2021:</strong> My <a href="https://github.com/huggingface/transformers/pull/10823" data-href="https://github.com/huggingface/transformers/pull/10823" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">pull request</a> has been accepted. The <code class="markup--code markup--p-code">CustomTrainer</code> subclass is not needed anymore for present and future versions of the <code class="markup--code markup--p-code">transformer</code> library: you can now use the <code class="markup--code markup--p-code">Trainer</code> directly.</p></div></div></section><section name="b41e" class="section section--body section--last"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><p name="001c" id="001c" class="graf graf--p graf--leading">There are a few articles, notebooks and code samples that teach how to integrate Ray Tune and Hugging Face Transformers, but they either leave out Weights &amp; Biases or do not work anymore due to changes made to the library.</p><ul class="postList"><li name="e530" id="e530" class="graf graf--li graf-after--p"><a href="https://medium.com/distributed-computing-with-ray/hyperparameter-optimization-for-transformers-a-guide-c4e32c6c989b" data-href="https://medium.com/distributed-computing-with-ray/hyperparameter-optimization-for-transformers-a-guide-c4e32c6c989b" class="markup--anchor markup--li-anchor" target="_blank">Hyperparameter Optimization for 🤗Transformers: A guide</a></li><li name="a847" id="a847" class="graf graf--li graf-after--li"><a href="https://huggingface.co/blog/ray-tune" data-href="https://huggingface.co/blog/ray-tune" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">Hyperparameter Search with Transformers and Ray Tune</a></li></ul><p name="aded" id="aded" class="graf graf--p graf-after--li">After some hours of experimentation, I figured out the right way to integrate them. First of all, there is a bug in the <code class="markup--code markup--p-code">Trainer</code> that won’t<br>allow you to use W&amp;B and Ray Tune at the same time.<a href="https://github.com/huggingface/transformers/pull/10823" data-href="https://github.com/huggingface/transformers/pull/10823" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank"> I have already submitted a PR on thi</a>s, but regardless of whether they accept it or not, you can currently fix this bug by creating a subclass that inherits from the <code class="markup--code markup--p-code">Trainer</code>:</p><figure name="7e24" id="7e24" class="graf graf--figure graf--iframe graf-after--p"><script src="https://gist.github.com/ruanchaves/7c2011d4d70b85926e101f5ed84ad718.js"></script></figure><p name="1365" id="1365" class="graf graf--p graf-after--figure">Before you actually instantiate a <code class="markup--code markup--p-code">CustomTrainer</code> object, you’ll have to create two functions: <code class="markup--code markup--p-code"><strong class="markup--strong markup--p-strong">model_init</strong></code> and <code class="markup--code markup--p-code"><strong class="markup--strong markup--p-strong">hp_space_fn</strong></code>. <br><code class="markup--code markup--p-code"><strong class="markup--strong markup--p-strong">model_init</strong></code><strong class="markup--strong markup--p-strong"> </strong>has to simply return your model, and <code class="markup--code markup--p-code"><strong class="markup--strong markup--p-strong">hp_space_fn</strong></code> has to return <a href="https://docs.wandb.ai/integrations/ray-tune" data-href="https://docs.wandb.ai/integrations/ray-tune" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">the config that will be used by Ray Trace and W&amp;B</a>.</p><p name="102f" id="102f" class="graf graf--p graf-after--p">A few points regarding the code below:</p><p name="94be" id="94be" class="graf graf--p graf-after--p">* You can get your wandb api key at <a href="http://wandb.ai/authorize" data-href="http://wandb.ai/authorize" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">wandb.ai/authorize</a>. I like to set it as an environment variable and run my scripts as <code class="markup--code markup--p-code">API_KEY=… WANDB_PROJECT=my_project_name python run_glue.py …’</code> .</p><ul class="postList"><li name="d6db" id="d6db" class="graf graf--li graf-after--p">The <code class="markup--code markup--li-code">model_init</code> function is meant to run on a modified version of run_glue.py.</li></ul><figure name="ecc2" id="ecc2" class="graf graf--figure graf--iframe graf-after--li"><script src="https://gist.github.com/ruanchaves/b77c411504c15ea17c9d6e9110650565.js"></script></figure><p name="efb8" id="efb8" class="graf graf--p graf-after--figure">Now you’re ready to run the <code class="markup--code markup--p-code">hyperparameter_search</code> Trainer method. Any additional parameters ( such as <code class="markup--code markup--p-code">time_budget_s</code> ) will be passed directly to <a href="https://docs.ray.io/en/master/tune/api_docs/execution.html" data-href="https://docs.ray.io/en/master/tune/api_docs/execution.html" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">tune.run</a>, as <a href="https://huggingface.co/transformers/main_classes/trainer.html" data-href="https://huggingface.co/transformers/main_classes/trainer.html" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">stated in the docs</a>.<br> <br>The best hyperparameters will be returned as a dictionary that can be accessed at <code class="markup--code markup--p-code">best_run.hyperparameters</code>.</p><figure name="d36b" id="d36b" class="graf graf--figure graf--iframe graf-after--p"><script src="https://gist.github.com/ruanchaves/e45126c602faf5c976ac82d1b47e84fb.js"></script></figure><p name="df14" id="df14" class="graf graf--p graf-after--figure">There may be better ways to do this, but this approach simply works. All code was tested on the <code class="markup--code markup--p-code"><em class="markup--em markup--p-em">transformers</em></code> version <code class="markup--code markup--p-code">4.4.0.dev0</code>.</p><p name="c7e3" id="c7e3" class="graf graf--p graf-after--p">P.S.: If for some reason you want to completely disable <code class="markup--code markup--p-code">wandb</code>, it is enough to omit the <code class="markup--code markup--p-code">loggers</code> argument on your call to <code class="markup--code markup--p-code">trainer.hyperparameter_search</code>, comment the <code class="markup--code markup--p-code">config.update(wandb_config)</code> line on <code class="markup--code markup--p-code">hp_space_fn</code> and remove the <code class="markup--code markup--p-code">WandbCallback</code> from the trainer:</p><figure name="06f0" id="06f0" class="graf graf--figure graf--iframe graf-after--p graf--trailing"><script src="https://gist.github.com/ruanchaves/c5a71c2c00f22dfaefd625ff6f500f22.js"></script></figure></div></div></section>
+</section>
+<footer><p>By <a href="https://medium.com/@ruanchaves" class="p-author h-card">Ruan Chaves Rodrigues</a> on <a href="https://medium.com/p/172c07ce2854"><time class="dt-published" datetime="2022-02-02T23:24:21.848Z">February 2, 2022</time></a>.</p><p><a href="https://medium.com/@ruanchaves/integrating-ray-tune-hugging-face-transformers-and-w-b-172c07ce2854" class="p-canonical">Canonical link</a></p><p>Exported from <a href="https://medium.com">Medium</a> on March 5, 2026.</p></footer></article></body></html>
