@@ -1,0 +1,153 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[letterpaper,margin=0.5in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{mdwlist}
+\usepackage[default]{lato}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage{fontawesome}
+\usepackage{enumitem}
+\usepackage{amssymb}
+\usepackage{unicode-math}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+    pdftitle={Resume},
+    pdfpagemode=FullScreen,
+}
+
+\urlstyle{same}
+
+\DeclareFontFamily{U}{fontawesomeOne}{}
+\DeclareFontShape{U}{fontawesomeOne}{m}{n}
+{<-> FontAwesome--fontawesomeone}{}
+\DeclareRobustCommand\FAone{\fontencoding{U}\fontfamily{fontawesomeOne}\selectfont}
+\pagestyle{empty}
+\setlength{\tabcolsep}{0em}
+
+\newenvironment{indentsection}[1]{\begin{list}{}{\setlength{\leftmargin}{#1}}\item[]}{\end{list}}
+\newenvironment{unindentsection}[1]{\begin{list}{}{\setlength{\leftmargin}{-0.5#1}}\item[]}{\end{list}}
+\newcommand{\headerrow}[2]{\begin{tabular*}{\linewidth}{l@{\extracolsep{\fill}}r}#1 &#2 \\ \end{tabular*}}
+\newcommand{\CPP}{C\nolinebreak[4]\hspace{-.05em}\raisebox{.22ex}{\footnotesize\bf ++}}
+
+\begin{document}
+
+\begin{center}
+	{\LARGE \textbf{Ruan Chaves Rodrigues}}\\
+	\vspace{0.05cm} \ \\
+	\raisebox{-0.2\height}{\Large \faEnvelopeSquare} \ \ \href{mailto://ruanchaves93@gmail.com}{ruanchaves93@gmail.com} \hfill \raisebox{-0.2\height}{\Large \faGithubSquare} \ \ \href{https://github.com/ruanchaves}{Portfolio} \hfill \raisebox{-0.2\height}{\Large \faLinkedinSquare} \ \ \href{https://linkedin.com/in/ruanchaves}{LinkedIn}
+\end{center}
+
+\hrule
+\subsection*{\Large Experience}
+
+\begin{itemize}[leftmargin=1em]
+	\parskip=0.1em
+
+	\item
+	      \headerrow
+	      {\textbf{\href{https://www.xseed.com.uy/}{Xseed Solutions}}}
+	      {\textbf{United States}}
+	      \headerrow
+	      {\emph{Senior AI Engineer}}
+	      {\emph{September 2025 -- Present}}
+        \begin{itemize*}
+        \item Built a full-stack AI document processing platform on Azure to automate multi-document validation workflows, eliminating manual review and saving hundreds of staff hours annually.
+        \end{itemize*}
+
+	\item
+	      \headerrow
+	      {\textbf{\href{https://www.crunchbase.com/organization/arquivei}{Qive}}}
+	      {\textbf{Brazil}}
+	      \headerrow
+	      {\emph{Senior AI Engineer}}
+	      {\emph{February 2025 -- August 2025}}
+	      \begin{itemize*}
+            \item Led the development of a product search engine on GCP. Reduced RAG indexing time from several hours to minutes without compromising retrieval quality by uncovering reliable product groupings through data analytics and targeted indexing strategies.
+
+	      \end{itemize*}
+
+	\item
+	      \headerrow
+	      {\textbf{\href{https://www.fintechfutures.com/bankingtech/jp-morgan-chase-acquires-40-stake-in-brazil-s-digital-challenger-c6-bank}{C6 Bank}}}
+	      {\textbf{Brazil}}
+	      \headerrow
+	      {\emph{Senior Tech Engineer}}
+	      {\emph{October 2023 -- February 2025}}
+	      \begin{itemize*}
+          \item Built and deployed a Generative AI sales assistant using a multi-agent architecture with LangChain and LangGraph. The solution reduced both customer acquisition costs by a factor of six at a scale of 30 million clients, improving sales team productivity.
+	      \end{itemize*}
+
+	\item
+	      \headerrow
+	      {\textbf{\href{https://www.argilla.io/}{Argilla ( acquired by Hugging Face )}}}
+	      {\textbf{Spain}}
+	      \headerrow
+	      {\emph{Data Science Intern}}
+	      {\emph{November 2021 -- May 2022}}
+	      \begin{itemize*}
+	      \item Pioneered the first production-ready implementation of state-of-the-art embedding-based annotation methods in the Argilla open-source library ( later acquired by Hugging Face ), contributing 68K+ lines of code.
+	      \end{itemize*}
+          
+	\item
+	      \headerrow
+	      {\href{https://embrapii.org.br/en/unidades/embrapii-unit-in-artificial-intelligence-ceia-ufg-center-of-excellence-in-artificial-intelligence/}{\textbf{Deep Learning Brasil}}}
+	      {\textbf{Brazil}}
+	      \headerrow
+	      {\emph{Artificial Intelligence Researcher}}
+	      {\emph{September 2020 -- July 2021}}
+	      \begin{itemize*}
+          \item Achieved 1st place twice in major NLP competitions open to both academic and industry participants.
+	      \end{itemize*}
+
+\end{itemize}
+
+\hrule
+\subsection*{\Large Open Source Portfolio}
+
+\begin{itemize}[leftmargin=1em, nosep] % 'nosep' kills all vertical space
+	\item
+	    % Header content
+		{\href{https://github.com/ruanchaves}{\textbf{github.com/ruanchaves}}}
+		% Removed the empty \headerrow{}{} here which was causing a blank line
+		\begin{itemize*}
+			\item Creator of widely adopted NLP tools, including \textbf{Hashformers} (recognized as state-of-the-art at LREC 2022) and \textbf{Napolab} (a benchmark for Portuguese LLMs).
+			\item Contributor to core industry libraries, including \textbf{Hugging Face Transformers}.
+		\end{itemize*}
+\end{itemize}
+
+\hrule
+\subsection*{\Large Education}
+
+\begin{itemize}[leftmargin=1em]
+	\parskip=0.1em
+	
+	\item
+	      \headerrow
+	      {\textbf{University of the Basque Country \& University of Malta}}
+	      {\textbf{Spain \& Malta}}
+	      \headerrow
+	      {\emph{Erasmus Mundus Master in Language and Communication Technologies}}
+	      {\emph{Sept. 2021 -- Sept. 2023}}
+	    
+        Master Thesis: {\href{https://www.um.edu.mt/library/oar/handle/123456789/120557}{\textbf{Lessons learned from the evaluation of Portuguese language models}}}
+
+	\item
+	      \headerrow
+	      {\textbf{Federal University of Goi\'as (UFG)}}
+	      {\textbf{Brazil}}
+	      \headerrow
+	      {\emph{Bachelor of Science, Computer Science}}
+	      {\emph{January 2017 -- June 2021}}
+
+\end{itemize}
+
+\hrule
+\subsection*{\Large Skills}
+	
+    Python, SQL, LangChain, LangGraph, LlamaIndex, Haystack, Hugging Face Transformers, spaCy, PyTorch, MLflow, LangSmith, n8n, AWS (SageMaker, Bedrock), Google Cloud (Vertex AI, BigQuery), Azure, OpenAI API, Agentic AI, Fine-tuning, Prompt Engineering, Vector Databases (Pinecone, Weaviate).
+
+\end{document}
