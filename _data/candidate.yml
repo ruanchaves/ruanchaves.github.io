@@ -1,12 +1,12 @@
 hero:
   eyebrow: "Senior AI Engineer"
-  title: "I build production GenAI systems that ship, scale, and prove business value."
-  summary: "Senior AI Engineer with 5+ years across startups, banking, and research. I turn LLM, RAG, and agentic AI ideas into production systems with measurable impact in cost, speed, and quality."
+  title: "Senior AI Engineer for GenAI products, retrieval systems, and applied NLP."
+  summary: "I build production AI systems that improve cost, quality, and throughput across banking, startups, and open-source software."
   primary_cta:
-    label: "View Resume"
+    label: "Resume"
     url: "/cv/"
   secondary_cta:
-    label: "Contact Me"
+    label: "Email"
     url: "/contact/"
 proof_points:
   - "Built and deployed multi-agent AI systems in production"
@@ -27,9 +27,9 @@ featured_metrics:
     value: "2"
     detail: "Napolab and Hashformers"
 fit_summary:
-  - "Production GenAI delivery across startups, banking, and open-source software."
-  - "Strong in retrieval, evaluation, orchestration, and applied NLP systems."
-  - "Remote-first collaboration across teams in the U.S., Europe, and Latin America."
+  - "Production GenAI delivery across startups, banking, and open-source software"
+  - "Strong in retrieval, evaluation, orchestration, and applied NLP systems"
+  - "Remote-first collaboration across teams in the U.S., Europe, and Latin America"
 case_studies:
   - title: "Multi-agent sales assistant for a 30M+ customer bank"
     company: "C6 Bank"
@@ -160,6 +160,7 @@ projects:
   - name: "Napolab"
     url: "https://github.com/ruanchaves/napolab"
     stars: "72 stars"
+    label: "Flagship project"
     summary: "A benchmark for Portuguese language models that challenged assumptions about the advantage of Portuguese-only models and highlighted contamination and evaluation quality issues."
     proof:
       - "Backed by master's thesis at the University of Malta"
@@ -168,6 +169,7 @@ projects:
   - name: "Hashformers"
     url: "https://github.com/ruanchaves/hashformers"
     stars: "77 stars"
+    label: "Flagship project"
     summary: "Transformer and beam-search based hashtag segmentation system recognized as state of the art in LREC 2022."
     proof:
       - "Research-backed open-source package"
@@ -175,6 +177,7 @@ projects:
       - "Useful example of turning research into reusable tooling"
   - name: "COLIEE codebase"
     url: "https://github.com/neuralmind-ai/coliee"
+    label: "Supporting proof"
     stars: "Competition code"
     summary: "Supporting code for legal retrieval and legal entailment work, including a first-place zero-shot system."
     proof:
@@ -195,7 +198,7 @@ open_source_contributions:
     summary: "Corrected an evaluation bug later documented in published research."
 research:
   summary: "Selected papers, benchmark work, and open research projects."
-  wins:
+  earlier_distinctions:
     - "1st place, ASSIN 2"
     - "1st place, COLIEE 2021 Task 2"
     - "1st place, ABSAPT 2022"
