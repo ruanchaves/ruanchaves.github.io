@@ -1,0 +1,150 @@
+.recruiter-hero {
+  margin: 0 0 2.5rem;
+  padding: 2rem;
+  border: 1px solid #d5d9e2;
+  border-radius: 1.25rem;
+  background: linear-gradient(135deg, #f6f8fb 0%, #eef2f7 100%);
+}
+
+.recruiter-hero__eyebrow,
+.case-study__meta,
+.project-card__meta,
+.timeline-card__company {
+  margin-bottom: 0.35rem;
+  color: #1c5d73;
+  font-size: 0.9rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.recruiter-hero__title {
+  margin: 0 0 0.75rem;
+  max-width: 16ch;
+  font-size: clamp(2.2rem, 5vw, 3.6rem);
+  line-height: 1.05;
+}
+
+.recruiter-hero__summary {
+  max-width: 48rem;
+  font-size: 1.1rem;
+}
+
+.recruiter-hero__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.25rem;
+}
+
+.proof-bar,
+.metric-grid,
+.two-column-grid,
+.skills-grid,
+.contact-grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.proof-bar {
+  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+  margin: 2rem 0;
+}
+
+.proof-bar__item,
+.metric-card,
+.content-panel,
+.timeline-card,
+.case-study,
+.cta-panel {
+  padding: 1.1rem 1.2rem;
+  border: 1px solid #d5d9e2;
+  border-radius: 1rem;
+  background: #fff;
+}
+
+.proof-bar__item {
+  font-weight: 600;
+}
+
+.metric-grid,
+.contact-grid {
+  grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+  margin: 2rem 0;
+}
+
+.metric-card__value {
+  margin: 0;
+  color: #0f3b4c;
+  font-size: 2rem;
+  font-weight: 800;
+}
+
+.metric-card__label,
+.metric-card__detail {
+  margin: 0.15rem 0 0;
+}
+
+.metric-card__label {
+  font-weight: 700;
+}
+
+.highlight-list p {
+  margin: 0 0 0.85rem;
+  padding-left: 1rem;
+  border-left: 3px solid #d88c34;
+}
+
+.case-study,
+.timeline-card,
+.content-panel,
+.cta-panel {
+  margin: 1rem 0 1.25rem;
+}
+
+.case-study__outcome {
+  margin-top: 0;
+  font-weight: 700;
+}
+
+.two-column-grid,
+.skills-grid {
+  grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
+}
+
+.timeline-card__header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.timeline-card__header h2,
+.content-panel h2,
+.case-study h3 {
+  margin-bottom: 0.2rem;
+}
+
+.timeline-card__meta {
+  color: #5a6573;
+  text-align: right;
+}
+
+.timeline-card__meta p {
+  margin: 0;
+}
+
+.cta-panel {
+  background: linear-gradient(180deg, #fff7ec 0%, #fff 100%);
+}
+
+@media (max-width: 720px) {
+  .recruiter-hero {
+    padding: 1.4rem;
+  }
+
+  .timeline-card__meta {
+    text-align: left;
+  }
+}

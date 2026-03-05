@@ -1,40 +1,90 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: "Senior AI Engineer building production GenAI systems with measurable impact."
 author_profile: true
 redirect_from: 
   - /about.html
+  - /about/
 ---
+{% assign candidate = site.data.candidate %}
 
-# About Me
+<section class="recruiter-hero">
+  <p class="recruiter-hero__eyebrow">{{ candidate.hero.eyebrow }}</p>
+  <h1 class="recruiter-hero__title">{{ candidate.hero.title }}</h1>
+  <p class="recruiter-hero__summary">{{ candidate.hero.summary }}</p>
+  <div class="recruiter-hero__actions">
+    <a class="btn btn--primary" href="{{ candidate.hero.primary_cta.url }}">{{ candidate.hero.primary_cta.label }}</a>
+    <a class="btn btn--inverse" href="{{ candidate.hero.secondary_cta.url }}">{{ candidate.hero.secondary_cta.label }}</a>
+  </div>
+</section>
 
-Senior AI Engineer with 5+ years of experience designing and deploying production-ready Generative AI, LLM, and NLP solutions. Proven success in both fast-paced startups and large enterprises.
+<section class="proof-bar">
+  {% for point in candidate.proof_points %}
+  <div class="proof-bar__item">{{ point }}</div>
+  {% endfor %}
+</section>
 
-Holds a double Master’s degree in AI and NLP (University of Malta & University of the Basque Country) and a Bachelor’s in Computer Science from UFG, a leading AI research university in Brazil.
+<section class="metric-grid">
+  {% for item in candidate.featured_metrics %}
+  <div class="metric-card">
+    <p class="metric-card__value">{{ item.value }}</p>
+    <p class="metric-card__label">{{ item.label }}</p>
+    <p class="metric-card__detail">{{ item.detail }}</p>
+  </div>
+  {% endfor %}
+</section>
 
-Experienced in leading and collaborating with distributed remote teams across Europe, Latin America, and the U.S. to deliver complex AI projects on schedule.
+## Why recruiters reach out
 
-Contributor to language model research, having developed open-source projects used by the AI community and contributed new features to major AI open-source libraries.
+<div class="highlight-list">
+{% for item in candidate.fit_summary %}
+<p>{{ item }}</p>
+{% endfor %}
+</div>
 
+## Featured case studies
 
-## Portfolio
-Explore my open-source portfolio on [Github](https://github.com/ruanchaves).
+{% for case in candidate.case_studies %}
+<section class="case-study">
+  <p class="case-study__meta">{{ case.company }}</p>
+  <h3>{{ case.title }}</h3>
+  <p class="case-study__outcome">{{ case.outcome }}</p>
+  <p>{{ case.challenge }}</p>
+  <ul>
+    {% for step in case.approach %}
+    <li>{{ step }}</li>
+    {% endfor %}
+  </ul>
+  <p><strong>Stack:</strong> {{ case.stack | join: ", " }}</p>
+</section>
+{% endfor %}
 
-## Connect With Me
-For collaboration opportunities or general inquiries, connect with me on [LinkedIn](https://www.linkedin.com/in/ruanchaves/) or send me an email at [ruanchaves93@gmail.com](mailto:ruanchaves93@gmail.com).
+## Selected proof
 
-## My Blog
-Stay updated on my latest insights about NLP, machine learning, and various side projects. Follow me on: 
-* [LinkedIn](https://www.linkedin.com/in/ruanchaves/)
-* [Medium](https://ruanchaves.medium.com/)
+<div class="two-column-grid">
+  <section class="content-panel">
+    <h3>Business impact</h3>
+    <p>My strongest work sits at the point where model quality, product quality, and engineering discipline all matter at once.</p>
+    <ul>
+      <li>6x lower acquisition cost from a production AI sales assistant.</li>
+      <li>90% lower inference cost on a production RAG workflow.</li>
+      <li>Hours-to-minutes indexing reduction for retrieval over proprietary product data.</li>
+    </ul>
+  </section>
+  <section class="content-panel">
+    <h3>Technical credibility</h3>
+    <p>Open-source projects, papers, and competition wins are supporting evidence, not side hobbies.</p>
+    <ul>
+      <li><a href="/projects/">Projects</a> covers Napolab, Hashformers, and external contributions.</li>
+      <li><a href="/research/">Research</a> highlights publications, baselines, and competition wins.</li>
+      <li><a href="/writing/">Writing</a> shows how I reason about evaluation and LLM systems.</li>
+    </ul>
+  </section>
+</div>
 
-## Academic Publications
-Access my academic research on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=3JDK8KEAAAAJ).
-
-
-<p align="center" >
-  <a href="https://www.linkedin.com/in/ruanchaves"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" width="50" /></a>
-  <a href="https://github.com/ruanchaves"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Black/Github_black.png" width="50" /></a>
-  <a href="https://ruanchaves.medium.com/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Medium.png" width="50" /></a>
-</p>
+<section class="cta-panel">
+  <h2>Looking for a senior engineer who can ship GenAI systems responsibly?</h2>
+  <p>Use this site as a quick screening path: start with <a href="/experience/">experience</a>, scan the <a href="/cv/">resume</a>, then check <a href="/projects/">projects</a> and <a href="/research/">research</a> for deeper proof.</p>
+  <p><a class="btn btn--primary" href="/contact/">Get in touch</a></p>
+</section>
