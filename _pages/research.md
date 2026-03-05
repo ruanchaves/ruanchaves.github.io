@@ -10,14 +10,6 @@ excerpt: "Publications, awards, and research-backed credibility."
 
 <p>{{ candidate.research.summary }}</p>
 
-## Competition wins
-
-<div class="highlight-list">
-{% for win in candidate.research.wins %}
-<p>{{ win }}</p>
-{% endfor %}
-</div>
-
 ## Selected publications
 
 {% for paper in candidate.research.publications %}
@@ -28,6 +20,10 @@ excerpt: "Publications, awards, and research-backed credibility."
 </section>
 {% endfor %}
 
-## Why research belongs on this site
+## Additional results
 
-<p>For recruiter screening, the value of this work is practical: better evaluation taste, stronger baseline discipline, and a track record of turning research ideas into production judgment.</p>
+<div class="highlight-list">
+{% for win in candidate.research.wins %}
+<p>{{ win }}</p>
+{% endfor %}
+</div>

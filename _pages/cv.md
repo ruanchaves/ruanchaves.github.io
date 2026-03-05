@@ -74,4 +74,4 @@ excerpt: "Recruiter-ready summary, resume download, and core fit."
 {% endfor %}
 </ul>
 
-<p>For deeper proof, see <a href="/projects/">projects</a>, <a href="/research/">research</a>, and <a href="/writing/">writing</a>.</p>
+<p>For deeper proof, see <a href="/projects/">projects</a>, <a href="/research/">research</a>, and the <a href="/blog/">blog</a>.</p>

@@ -32,6 +32,6 @@ excerpt: "Selected open-source and engineering proof."
 </section>
 {% endfor %}
 
-## Why this matters for hiring
+## More
 
-<p>The best indicator of fit is not just having used the right tools. It is shipping systems, contributing fixes upstream, and demonstrating good judgment about where research ideas do and do not hold up in practice.</p>
+<p>Additional code, experiments, and open-source work live on <a href="https://github.com/ruanchaves">GitHub</a>.</p>

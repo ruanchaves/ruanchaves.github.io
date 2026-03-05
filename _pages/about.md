@@ -35,7 +35,7 @@ redirect_from:
   {% endfor %}
 </section>
 
-## Why recruiters reach out
+## Selected work
 
 <div class="highlight-list">
 {% for item in candidate.fit_summary %}
@@ -43,7 +43,7 @@ redirect_from:
 {% endfor %}
 </div>
 
-## Featured case studies
+## Case studies
 
 {% for case in candidate.case_studies %}
 <section class="case-study">
@@ -60,12 +60,11 @@ redirect_from:
 </section>
 {% endfor %}
 
-## Selected proof
+## Highlights
 
 <div class="two-column-grid">
   <section class="content-panel">
-    <h3>Business impact</h3>
-    <p>My strongest work sits at the point where model quality, product quality, and engineering discipline all matter at once.</p>
+    <h3>Recent delivery</h3>
     <ul>
       <li>6x lower acquisition cost from a production AI sales assistant.</li>
       <li>90% lower inference cost on a production RAG workflow.</li>
@@ -73,18 +72,17 @@ redirect_from:
     </ul>
   </section>
   <section class="content-panel">
-    <h3>Technical credibility</h3>
-    <p>Open-source projects, papers, and competition wins are supporting evidence, not side hobbies.</p>
+    <h3>Open source and research</h3>
     <ul>
       <li><a href="/projects/">Projects</a> covers Napolab, Hashformers, and external contributions.</li>
-      <li><a href="/research/">Research</a> highlights publications, baselines, and competition wins.</li>
-      <li><a href="/writing/">Writing</a> shows how I reason about evaluation and LLM systems.</li>
+      <li><a href="/research/">Research</a> covers selected publications and benchmark work.</li>
+      <li><a href="/blog/">Blog</a> collects on-site writing on evaluation and applied AI.</li>
     </ul>
   </section>
 </div>
 
 <section class="cta-panel">
-  <h2>Looking for a senior engineer who can ship GenAI systems responsibly?</h2>
-  <p>Use this site as a quick screening path: start with <a href="/experience/">experience</a>, scan the <a href="/cv/">resume</a>, then check <a href="/projects/">projects</a> and <a href="/research/">research</a> for deeper proof.</p>
+  <h2>Start with experience, projects, or the resume.</h2>
+  <p><a href="/experience/">Experience</a>, <a href="/projects/">projects</a>, <a href="/research/">research</a>, and the <a href="/cv/">resume</a> cover the strongest proof first.</p>
   <p><a class="btn btn--primary" href="/contact/">Get in touch</a></p>
 </section>
