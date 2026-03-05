@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ruan Chaves Rodrigues"
 title_separator          : "-"
 name                     : &name "Ruan Chaves Rodrigues"
-description              : &description "Senior AI Engineer with 5+ years of experience in Generative AI, LLMs, and NLP. Double Master’s in AI and NLP. Contributor to open-source AI projects and research."
+description              : &description "Senior AI Engineer building production GenAI, RAG, and NLP systems with measurable business impact."
 url                      : https://ruanchaves.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ruanchaves/ruanchaves.github.io"
@@ -86,14 +86,14 @@ analytics:
 author:
   name             : "Ruan Chaves Rodrigues"
   avatar           : "profile.jpg"
-  bio              : "Senior AI Engineer with 5+ years of experience in Generative AI, LLMs, and NLP. Double Master’s in AI and NLP. Contributor to open-source AI projects and research."
+  bio              : "Senior AI Engineer focused on GenAI, RAG, agentic systems, and evidence-driven AI delivery."
   location         : "Brazil"
-  employer         :
+  employer         : "Open to senior AI roles"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=3JDK8KEAAAAJ&hl=en"
   email            : "ruanchaves93@gmail.com"
   researchgate     : 
-  uri              :
+  uri              : "https://ruanchaves.github.io"
   bitbucket        :
   codepen          :
   dribbble         :

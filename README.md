@@ -1,20 +1,26 @@
 # Ruan Chaves Rodrigues — Personal Website
 
-Welcome to my personal website! I am a Senior Data Scientist based in Brazil. Here you can find my portfolio, publications, talks, and blog posts.
+This repository powers my personal website at [ruanchaves.github.io](https://ruanchaves.github.io).
 
-## Main Sections
-- **About**: Learn more about me and my background.
-- **Blog**: Read my articles on Medium.
-- **Talks**: Watch my presentations and talks on YouTube.
-- **Publications**: See my research on Google Scholar.
-- **Portfolio**: Explore my projects on GitHub.
+The current version is structured as a recruiter-focused funnel for senior AI roles:
 
-## Contact
-Feel free to reach out via [email](mailto:ruanchaves93@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ruanchaves/).
+- `Home`: positioning, proof points, and featured case studies
+- `Experience`: quantified delivery history and impact
+- `Projects`: open-source and engineering credibility
+- `Research`: publications, awards, and research-backed proof
+- `Writing`: selected essays relevant to GenAI and evaluation
+- `Resume`: recruiter-ready summary plus PDF download
+- `Contact`: the fastest path for hiring conversations
 
----
+## Content workflow
 
-This site is built with Jekyll and the Minimal Mistakes theme. For technical details, see below.
+- Curated public content lives in `_data/candidate.yml` and the page files under `_pages/`.
+- Public downloads stay in `files/`.
+- Raw exports and working source material live under `sources/`.
+
+See [sources/README.md](sources/README.md) for the refresh workflow.
+
+This site is built with Jekyll and the Minimal Mistakes theme. Template instructions remain below for technical reference.
 
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
