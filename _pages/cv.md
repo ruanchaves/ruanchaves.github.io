@@ -10,24 +10,31 @@ excerpt: "Recruiter-ready summary, resume download, and core fit."
 
 {% assign candidate = site.data.candidate %}
 
-## Summary
-
 <section class="cta-panel">
   <h2>{{ candidate.resume.summary }}</h2>
   <p><a class="btn btn--primary" href="{{ candidate.resume.pdf_url }}">Download PDF resume</a></p>
 </section>
 
-## Why I fit senior AI roles
+<section class="metric-grid metric-grid--compact">
+  <div class="metric-card">
+    <p class="metric-card__value">5+</p>
+    <p class="metric-card__label">Years in AI</p>
+  </div>
+  <div class="metric-card">
+    <p class="metric-card__value">3</p>
+    <p class="metric-card__label">Core environments</p>
+    <p class="metric-card__detail">Banking, startups, open source</p>
+  </div>
+  <div class="metric-card">
+    <p class="metric-card__value">2</p>
+    <p class="metric-card__label">Flagship OSS projects</p>
+    <p class="metric-card__detail">Napolab and Hashformers</p>
+  </div>
+</section>
 
-<div class="highlight-list">
-{% for item in candidate.fit_summary %}
-<p>{{ item }}</p>
-{% endfor %}
-</div>
+## Selected experience
 
-## Experience
-
-{% for role in candidate.experience %}
+{% for role in candidate.experience limit: 4 %}
 <section class="timeline-card">
   <div class="timeline-card__header">
     <div>
@@ -49,29 +56,25 @@ excerpt: "Recruiter-ready summary, resume download, and core fit."
 
 ## Skills
 
-<div class="skills-grid">
+<div class="chip-grid">
 {% for group in candidate.skills %}
-  <section class="content-panel">
-    <h3>{{ group.category }}</h3>
-    <p>{{ group.items | join: ", " }}</p>
-  </section>
+  {% for item in group.items %}
+  <span class="chip">{{ item }}</span>
+  {% endfor %}
 {% endfor %}
 </div>
 
-## Education
-
-<ul>
-{% for item in candidate.resume.education %}
-  <li>{{ item }}</li>
-{% endfor %}
-</ul>
-
-## Selected research and awards
-
-<ul>
-{% for win in candidate.research.wins %}
-  <li>{{ win }}</li>
-{% endfor %}
-</ul>
-
-<p>For deeper proof, see <a href="/projects/">projects</a>, <a href="/research/">research</a>, and the <a href="/blog/">blog</a>.</p>
+<section class="editorial-grid">
+  <div class="content-panel content-panel--dense">
+    <p class="panel-label">Education</p>
+    <ul class="compact-list">
+    {% for item in candidate.resume.education %}
+      <li>{{ item }}</li>
+    {% endfor %}
+    </ul>
+  </div>
+  <div class="content-panel content-panel--dense">
+    <p class="panel-label">More proof</p>
+    <p><a href="/projects/">Projects</a>, <a href="/research/">research</a>, and the <a href="/blog/">blog</a>.</p>
+  </div>
+</section>
