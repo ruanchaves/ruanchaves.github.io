@@ -11,6 +11,7 @@ redirect_from:
 
 <section class="landing-stage">
   <div class="recruiter-hero">
+    <img class="recruiter-hero__photo" src="/images/profile.jpg" alt="Ruan Chaves Rodrigues">
     <p class="recruiter-hero__eyebrow">{{ candidate.hero.eyebrow }}</p>
     <h1 class="recruiter-hero__title">{{ candidate.hero.title }}</h1>
     <p class="recruiter-hero__summary">{{ candidate.hero.summary }}</p>
