@@ -88,6 +88,15 @@ h6,
   padding: 2rem 1.75rem;
 }
 
+.recruiter-hero__photo {
+  width: 5.5rem;
+  height: 5.5rem;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  border: 2px solid var(--recruiter-border);
+}
+
 .recruiter-hero__title {
   margin: 0 0 0.75rem;
   max-width: 22ch;
