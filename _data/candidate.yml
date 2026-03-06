@@ -77,7 +77,9 @@ experience:
     period: "Sep 2025 - Present"
     location: "United States"
     highlights:
-      - "Current senior AI engineering role focused on production GenAI delivery."
+      - "Building and shipping production GenAI systems for U.S.-based clients."
+      - "Designing retrieval, orchestration, and evaluation pipelines for applied AI products."
+      - "Collaborating remotely with cross-functional teams on end-to-end AI delivery."
   - company: "Qive"
     title: "Senior AI Engineer"
     period: "Feb 2025 - Aug 2025"
