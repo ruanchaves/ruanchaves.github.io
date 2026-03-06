@@ -56,13 +56,14 @@ excerpt: "Recruiter-ready summary, resume download, and core fit."
 
 ## Skills
 
-<div class="chip-grid">
 {% for group in candidate.skills %}
+<p class="panel-label">{{ group.category }}</p>
+<div class="chip-row">
   {% for item in group.items %}
   <span class="chip">{{ item }}</span>
   {% endfor %}
-{% endfor %}
 </div>
+{% endfor %}
 
 <section class="editorial-grid">
   <div class="content-panel content-panel--dense">
