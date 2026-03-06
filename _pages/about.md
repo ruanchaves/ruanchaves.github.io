@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Senior AI Engineer"
 excerpt: "Senior AI Engineer building production GenAI systems with measurable impact."
 author_profile: true
 redirect_from: 
