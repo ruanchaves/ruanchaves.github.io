@@ -295,6 +295,22 @@ h6,
   border-radius: 999px;
 }
 
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: 0;
+  z-index: 100;
+  padding: 0.5rem 1rem;
+  background: var(--recruiter-accent);
+  color: #fff;
+  text-decoration: none;
+  font-family: "Space Grotesk", sans-serif;
+
+  &:focus {
+    top: 0;
+  }
+}
+
 @media (max-width: 840px) {
   .landing-stage,
   .case-study__body {

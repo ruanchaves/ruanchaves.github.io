@@ -4,6 +4,7 @@ title: "Resume"
 permalink: /cv/
 redirect_from:
   - /resume
+  - /resume/
 excerpt: "Recruiter-ready summary, resume download, and core fit."
 ---
 
