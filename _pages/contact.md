@@ -2,7 +2,6 @@
 layout: single
 title: "Contact"
 permalink: /contact/
-author_profile: true
 excerpt: "Best ways to reach me for roles, consulting, or collaboration."
 ---
 

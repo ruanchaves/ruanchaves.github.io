@@ -2,7 +2,6 @@
 layout: single
 title: "Research"
 permalink: /research/
-author_profile: true
 excerpt: "Publications, awards, and research-backed credibility."
 ---
 
