@@ -60,10 +60,11 @@ redirect_from:
 
 ## Strengths
 
-<div class="chip-grid">
 {% for group in candidate.skills %}
+<p class="panel-label">{{ group.category }}</p>
+<div class="chip-row">
   {% for item in group.items %}
   <span class="chip">{{ item }}</span>
   {% endfor %}
-{% endfor %}
 </div>
+{% endfor %}
