@@ -1,7 +1,5 @@
-# main links links
+# main links
 main:
-  - title: "Home"
-    url: /
   - title: "Work"
     url: /work/
   - title: "Projects"
