@@ -2,7 +2,6 @@
 layout: single
 title: "Work"
 permalink: /work/
-author_profile: true
 excerpt: "Quantified experience, leadership signals, and case studies."
 redirect_from:
   - /experience/

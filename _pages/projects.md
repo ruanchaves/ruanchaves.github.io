@@ -2,7 +2,6 @@
 layout: single
 title: "Projects"
 permalink: /projects/
-author_profile: true
 excerpt: "Selected open-source and engineering proof."
 ---
 
