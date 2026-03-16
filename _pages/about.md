@@ -20,22 +20,6 @@ redirect_from:
       <a class="btn btn--inverse" href="{{ candidate.hero.secondary_cta.url }}">{{ candidate.hero.secondary_cta.label }}</a>
     </div>
   </div>
-  <aside class="signal-panel">
-    <p class="signal-panel__label">Recent outcomes</p>
-    {% for item in candidate.featured_metrics %}
-    <div class="signal-panel__metric">
-      <p class="signal-panel__value">{{ item.value }}</p>
-      <p class="signal-panel__meta">{{ item.label }}</p>
-      <p class="signal-panel__detail">{{ item.detail }}</p>
-    </div>
-    {% endfor %}
-  </aside>
-</section>
-
-<section class="proof-bar proof-bar--compact">
-  {% for point in candidate.proof_points %}
-  <div class="proof-bar__item">{{ point }}</div>
-  {% endfor %}
 </section>
 
 ## Work

@@ -43,8 +43,7 @@ h6,
 .case-study__meta,
 .project-card__meta,
 .timeline-card__company,
-.panel-label,
-.signal-panel__label {
+.panel-label {
   margin-bottom: 0.35rem;
   color: var(--recruiter-accent);
   font-size: 0.84rem;
@@ -54,7 +53,6 @@ h6,
 }
 
 .landing-stage,
-.proof-bar,
 .feature-grid,
 .editorial-grid,
 .metric-grid,
@@ -64,13 +62,12 @@ h6,
 }
 
 .landing-stage {
-  grid-template-columns: minmax(0, 2.1fr) minmax(15rem, 1fr);
+  grid-template-columns: 1fr;
   align-items: start;
   margin-bottom: 2.5rem;
 }
 
 .recruiter-hero,
-.signal-panel,
 .feature-card,
 .content-panel,
 .timeline-card,
@@ -120,13 +117,6 @@ h6,
   margin-top: 1.25rem;
 }
 
-.signal-panel__metric + .signal-panel__metric {
-  margin-top: 0.95rem;
-  padding-top: 0.95rem;
-  border-top: 1px solid var(--recruiter-border);
-}
-
-.signal-panel__value,
 .metric-card__value {
   margin: 0;
   color: var(--recruiter-accent);
@@ -135,14 +125,11 @@ h6,
   line-height: 1;
 }
 
-.signal-panel__meta,
-.signal-panel__detail,
 .metric-card__label,
 .metric-card__detail {
   margin: 0.15rem 0 0;
 }
 
-.signal-panel__detail,
 .metric-card__detail,
 .archive-row__meta,
 .timeline-card__meta,
@@ -151,23 +138,6 @@ h6,
 .contact-inline a,
 .archive-row p {
   color: var(--recruiter-muted);
-}
-
-.proof-bar {
-  grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
-  margin: 0 0 2.5rem;
-}
-
-.proof-bar__item {
-  padding: 0.85rem 1rem;
-  border-left: 3px solid var(--recruiter-accent);
-  background: transparent;
-  font-weight: 600;
-  font-size: 0.95rem;
-}
-
-.proof-bar--compact .proof-bar__item {
-  border-radius: 0;
 }
 
 .feature-grid {
@@ -319,7 +289,6 @@ h6,
 }
 
 @media (max-width: 840px) {
-  .landing-stage,
   .case-study__body {
     grid-template-columns: 1fr;
   }
