@@ -76,6 +76,6 @@ excerpt: "Recruiter-ready summary, resume download, and core fit."
   </div>
   <div class="content-panel content-panel--dense">
     <p class="panel-label">More proof</p>
-    <p><a href="/projects/">Projects</a>, <a href="/research/">research</a>, and the <a href="/blog/">blog</a>.</p>
+    <p><a href="/projects/">Projects</a> and <a href="/research/">research</a>.</p>
   </div>
 </section>

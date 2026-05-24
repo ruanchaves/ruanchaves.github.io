@@ -4,9 +4,15 @@
 
 .archive {
   margin-bottom: 2em;
-  max-width: 58rem;
-  margin-left: auto;
-  margin-right: auto;
+
+  @include breakpoint($medium) {
+    @include span(12 of 12);
+  }
+
+  @include breakpoint($large) {
+    @include span(10 of 12 last);
+    @include prefix(0.5 of 12);
+  }
 
   a {
     text-decoration: underline;

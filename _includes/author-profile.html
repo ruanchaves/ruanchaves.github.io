@@ -20,7 +20,9 @@
   </div>
 
   <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">Contact</button>
+    {% if author.email %}
+      <a class="btn btn--inverse" href="mailto:{{ author.email }}">Contact</a>
+    {% endif %}
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>

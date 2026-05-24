@@ -1,76 +1,33 @@
 ---
 permalink: /
 title: "Senior AI Engineer"
-excerpt: "Senior AI Engineer building production GenAI systems with measurable impact."
+excerpt: "I build production AI systems for global companies, including LLM applications, retrieval infrastructure, agentic workflows, and backend services that turn prototypes into reliable products."
+author_profile: true
 redirect_from: 
   - /about.html
   - /about/
 ---
-{% assign candidate = site.data.candidate %}
-{% assign latest_post = site.posts.first %}
 
-<section class="landing-stage">
-  <div class="recruiter-hero">
-    <img class="recruiter-hero__photo" src="/images/profile.jpg" alt="Ruan Chaves Rodrigues">
-    <p class="recruiter-hero__eyebrow">{{ candidate.hero.eyebrow }}</p>
-    <h1 class="recruiter-hero__title">{{ candidate.hero.title }}</h1>
-    <p class="recruiter-hero__summary">{{ candidate.hero.summary }}</p>
-    <div class="recruiter-hero__actions">
-      <a class="btn btn--primary" href="{{ candidate.hero.primary_cta.url }}">{{ candidate.hero.primary_cta.label }}</a>
-      <a class="btn btn--inverse" href="{{ candidate.hero.secondary_cta.url }}">{{ candidate.hero.secondary_cta.label }}</a>
-    </div>
-  </div>
-</section>
+# About Me
 
-## Work
+I build production AI systems for global companies, including LLM applications, retrieval infrastructure, agentic workflows, and backend services that turn prototypes into reliable products.
 
-<div class="highlight-list highlight-list--compact">
-{% for item in candidate.fit_summary %}
-<p>{{ item }}</p>
-{% endfor %}
-</div>
+I’ve worked across startups, enterprise environments, and remote-first teams in the U.S., Europe, and Latin America. I shipped production GenAI systems for C6 Bank, a JPMorgan Chase-backed digital bank serving 30M+ clients, and built retrieval infrastructure for Qive, Brazil’s leading AP platform processing 20% of the country’s invoices.
 
-<section class="feature-grid">
-{% for case in candidate.case_studies limit: 3 %}
-  <article class="feature-card">
-    <p class="case-study__meta">{{ case.company }}</p>
-    <h2>{{ case.title }}</h2>
-    <p class="case-study__outcome">{{ case.outcome }}</p>
-    <p>{{ case.challenge }}</p>
-    <ul>
-      {% for step in case.approach limit: 2 %}
-      <li>{{ step }}</li>
-      {% endfor %}
-    </ul>
-    <p class="feature-card__footer">{{ case.stack | join: " · " }}</p>
-  </article>
-{% endfor %}
-</section>
+I hold a bachelor's degree in Computer Science and a double Master's in AI and NLP through the University of Malta and the University of the Basque Country. My background also includes published research, first-place finishes in three international NLP competitions, and open-source contributions at Argilla, later acquired by Hugging Face.
 
-<section class="editorial-grid">
-  <div class="content-panel content-panel--dense">
-    <p class="panel-label">Flagship proof</p>
-    {% for project in candidate.projects limit: 2 %}
-    <article class="stack-card">
-      <p class="project-card__meta">{{ project.label }} · {{ project.stars }}</p>
-      <h3><a href="{{ project.url }}">{{ project.name }}</a></h3>
-      <p>{{ project.summary }}</p>
-    </article>
-    {% endfor %}
-  </div>
-  <div class="content-panel content-panel--dense">
-    <p class="panel-label">Selected writing</p>
-    <article class="stack-card">
-      <p class="project-card__meta">{{ latest_post.date | date: "%Y" }}</p>
-      <h3><a href="{{ latest_post.url }}">{{ latest_post.title }}</a></h3>
-      <p>{{ latest_post.excerpt }}</p>
-    </article>
-    <p><a href="/blog/">Browse all writing</a></p>
-  </div>
-</section>
 
-<section class="cta-panel">
-  <h2>Start with work, projects, or the resume.</h2>
-  <p><a href="/work/">Work</a>, <a href="/projects/">projects</a>, <a href="/research/">research</a>, and the <a href="/cv/">resume</a> cover the strongest proof first.</p>
-  <p><a class="btn btn--primary" href="/contact/">Get in touch</a></p>
-</section>
+## Portfolio
+Explore my open-source portfolio on [Github](https://github.com/ruanchaves).
+
+## Connect With Me
+For collaboration opportunities or general inquiries, connect with me on [LinkedIn](https://www.linkedin.com/in/ruanchaves/) or send me an email at [ruanchaves93@gmail.com](mailto:ruanchaves93@gmail.com).
+
+## Academic Publications
+Access my academic research on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=3JDK8KEAAAAJ).
+
+
+<p align="center" >
+  <a href="https://www.linkedin.com/in/ruanchaves"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" width="50" /></a>
+  <a href="https://github.com/ruanchaves"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Black/Github_black.png" width="50" /></a>
+</p>
