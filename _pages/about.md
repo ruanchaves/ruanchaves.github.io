@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Senior AI Engineer"
-excerpt: "I build production AI systems for global companies, including LLM applications, retrieval infrastructure, agentic workflows, and backend services that turn prototypes into reliable products."
+excerpt: "Senior AI Engineer with 5+ years taking NLP, GenAI, LLM, and RAG products from prototype to production. Combines an AI-heavy European master’s background, language-model experience predating the GenAI boom, and pragmatic full-stack engineering to deliver production AI systems across banking, fintech, enterprise software, and startups. Has delivered measurable business impact at companies backed by industry leaders including JPMorgan and Hugging Face. Owns AI solutions end to end, from product definition and AI development to backend, frontend, DevOps, deployment, and production operations."
 author_profile: true
 redirect_from: 
   - /about.html
@@ -10,11 +10,7 @@ redirect_from:
 
 # About Me
 
-I build production AI systems for global companies, including LLM applications, retrieval infrastructure, agentic workflows, and backend services that turn prototypes into reliable products.
-
-I’ve worked across startups, enterprise environments, and remote-first teams in the U.S., Europe, and Latin America. I shipped production GenAI systems for C6 Bank, a JPMorgan Chase-backed digital bank serving 30M+ clients, and built retrieval infrastructure for Qive, Brazil’s leading AP platform processing 20% of the country’s invoices.
-
-I hold a bachelor's degree in Computer Science and a double Master's in AI and NLP through the University of Malta and the University of the Basque Country. My background also includes published research, first-place finishes in three international NLP competitions, and open-source contributions at Argilla, later acquired by Hugging Face.
+Senior AI Engineer with 5+ years taking NLP, GenAI, LLM, and RAG products from prototype to production. Combines an AI-heavy European master’s background, language-model experience predating the GenAI boom, and pragmatic full-stack engineering to deliver production AI systems across banking, fintech, enterprise software, and startups. Has delivered measurable business impact at companies backed by industry leaders including JPMorgan and Hugging Face. Owns AI solutions end to end, from product definition and AI development to backend, frontend, DevOps, deployment, and production operations.
 
 
 ## Portfolio
